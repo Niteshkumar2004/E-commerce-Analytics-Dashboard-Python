@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,city,product_category,product_name,quantity,unit_price,discount_pct,revenue,payment_method,shipping_days,customer_rating,delivery_status
+ORD00001,2025-11-24,CUST0126,Hyderabad,Electronics,Wireless Earbuds,1,2497.47,10,2247.72,UPI,5,5,On Time
+ORD00002,2025-02-22,CUST0217,Bengaluru,Books,Fiction Book,1,313.88,20,251.1,UPI,6,4,Late
+ORD00003,2025-04-22,CUST0102,Kolkata,Clothing,T-Shirt,1,741.63,20,593.3,UPI,3,5,On Time
+ORD00004,2025-10-29,CUST0358,Kolkata,Home & Kitchen,Mixer Grinder,1,2896.07,5,2751.27,Credit Card,4,3,On Time
+ORD00005,2025-03-21,CUST0048,Kolkata,Clothing,Sneakers,1,2249.68,0,2249.68,UPI,2,4,On Time
+ORD00006,2025-06-26,CUST0374,Ahmedabad,Sports,Dumbbell Set,1,1631.84,0,1631.84,Credit Card,6,4,Late
+ORD00007,2025-07-13,CUST0186,Hyderabad,Electronics,Bluetooth Speaker,1,1807.69,20,1446.15,Debit Card,3,4,On Time
+ORD00008,2025-01-24,CUST0041,Hyderabad,Books,Career Guide,1,450.58,10,405.52,Digital Wallet,3,4,On Time
+ORD00009,2025-07-14,CUST0084,Chennai,Home & Kitchen,Desk Lamp,2,883.84,10,1590.91,Credit Card,4,3,On Time
+ORD00010,2025-12-10,CUST0326,Delhi,Home & Kitchen,Mixer Grinder,1,3592.95,20,2874.36,Credit Card,5,3,On Time
+ORD00011,2025-05-06,CUST0139,Hyderabad,Clothing,Jacket,1,2112.64,15,1795.74,Debit Card,1,4,On Time
+ORD00012,2025-01-29,CUST0206,Pune,Clothing,T-Shirt,3,703.65,10,1899.85,UPI,5,4,On Time
+ORD00013,2025-10-18,CUST0336,Ahmedabad,Books,Cookbook,1,381.69,5,362.61,Credit Card,4,4,On Time
+ORD00014,2025-11-26,CUST0072,Hyderabad,Beauty,Skincare Kit,1,1490.25,10,1341.23,Digital Wallet,3,5,On Time
+ORD00015,2025-10-03,CUST0205,Chennai,Home & Kitchen,Desk Lamp,1,911.53,20,729.22,UPI,4,4,On Time
+ORD00016,2025-03-12,CUST0387,Bengaluru,Sports,Water Bottle,1,515.73,0,515.73,Digital Wallet,3,5,On Time
+ORD00017,2025-03-20,CUST0306,Mumbai,Books,Career Guide,1,547.32,15,465.22,Credit Card,5,5,On Time
+ORD00018,2025-11-02,CUST0006,Mumbai,Beauty,Hair Dryer,2,1657.21,20,2651.54,Debit Card,2,4,On Time
+ORD00019,2025-10-02,CUST0058,Pune,Toys,Remote Car,2,1555.48,10,2799.86,Credit Card,3,4,On Time
+ORD00020,2025-08-21,CUST0391,Delhi,Electronics,Bluetooth Speaker,1,1705.6,20,1364.48,Credit Card,5,5,On Time
+ORD00021,2025-02-24,CUST0312,Hyderabad,Toys,Remote Car,3,1487.5,20,3570.0,UPI,4,4,On Time
+ORD00022,2025-03-24,CUST0166,Ahmedabad,Sports,Yoga Mat,2,865.63,20,1385.01,UPI,4,5,On Time
+ORD00023,2025-07-05,CUST0030,Hyderabad,Toys,Remote Car,1,1467.39,5,1394.02,Digital Wallet,4,4,On Time
+ORD00024,2025-02-10,CUST0390,Delhi,Electronics,Power Bank,1,1203.09,0,1203.09,UPI,3,4,On Time
+ORD00025,2025-09-01,CUST0271,Kolkata,Sports,Running Shoes,1,3014.66,10,2713.19,Cash on Delivery,2,4,On Time
+ORD00026,2025-10-04,CUST0205,Chennai,Toys,Board Game,3,873.95,10,2359.67,Credit Card,5,4,On Time
+ORD00027,2025-09-22,CUST0116,Mumbai,Beauty,Face Serum,2,679.48,5,1291.01,UPI,4,5,On Time
+ORD00028,2025-10-29,CUST0113,Bengaluru,Sports,Running Shoes,2,3132.72,20,5012.35,UPI,3,4,On Time
+ORD00029,2025-11-20,CUST0017,Chennai,Electronics,Smart Watch,1,3716.9,0,3716.9,UPI,4,4,On Time
+ORD00030,2025-05-02,CUST0277,Delhi,Home & Kitchen,Desk Lamp,1,902.9,5,857.75,Debit Card,1,4,On Time
+ORD00031,2025-10-20,CUST0402,Ahmedabad,Sports,Water Bottle,1,428.08,5,406.68,Digital Wallet,3,4,On Time
+ORD00032,2025-04-08,CUST0182,Kolkata,Electronics,Wireless Earbuds,1,2333.99,15,1983.89,Credit Card,4,4,On Time
+ORD00033,2025-01-28,CUST0207,Chennai,Books,Fiction Book,3,323.94,0,971.82,Digital Wallet,1,4,On Time
+ORD00034,2025-02-25,CUST0275,Ahmedabad,Clothing,Jeans,1,1205.49,5,1145.22,UPI,4,5,On Time
+ORD00035,2025-04-04,CUST0039,Ahmedabad,Home & Kitchen,Desk Lamp,1,840.23,5,798.22,Digital Wallet,3,4,On Time
+ORD00036,2025-10-09,CUST0008,Mumbai,Electronics,Wireless Earbuds,1,2193.04,20,1754.43,Cash on Delivery,6,4,Late
+ORD00037,2025-05-02,CUST0247,Hyderabad,Clothing,Jacket,1,2243.78,15,1907.21,Digital Wallet,6,3,Late
+ORD00038,2025-01-31,CUST0200,Pune,Clothing,Jacket,1,2122.54,0,2122.54,Cash on Delivery,2,4,On Time
+ORD00039,2025-08-21,CUST0339,Ahmedabad,Home & Kitchen,Desk Lamp,1,924.54,20,739.63,UPI,1,4,On Time
+ORD00040,2025-06-01,CUST0377,Bengaluru,Clothing,T-Shirt,2,586.5,20,938.4,Digital Wallet,2,5,On Time
+ORD00041,2025-01-30,CUST0272,Delhi,Electronics,Power Bank,3,1069.51,20,2566.82,UPI,2,4,On Time
+ORD00042,2025-09-18,CUST0305,Mumbai,Electronics,Smart Watch,3,4230.17,0,12690.51,Debit Card,5,3,On Time
+ORD00043,2025-05-01,CUST0127,Bengaluru,Beauty,Face Serum,2,762.42,20,1219.87,Debit Card,1,4,On Time
+ORD00044,2025-08-03,CUST0105,Chennai,Books,Cookbook,1,470.05,10,423.05,UPI,4,5,On Time
+ORD00045,2025-07-22,CUST0162,Mumbai,Clothing,Sneakers,1,2291.43,15,1947.72,UPI,5,4,On Time
+ORD00046,2025-11-15,CUST0276,Hyderabad,Sports,Yoga Mat,3,921.37,0,2764.11,Credit Card,3,4,On Time
+ORD00047,2025-03-09,CUST0190,Pune,Home & Kitchen,Mixer Grinder,1,3582.61,5,3403.48,UPI,4,4,On Time
+ORD00048,2025-10-06,CUST0414,Bengaluru,Books,Cookbook,1,377.26,20,301.81,Debit Card,7,4,Late
+ORD00049,2025-10-11,CUST0136,Mumbai,Home & Kitchen,Mixer Grinder,2,2935.3,5,5577.07,Cash on Delivery,2,5,On Time
+ORD00050,2025-10-11,CUST0310,Hyderabad,Clothing,Sneakers,1,2577.47,10,2319.72,Debit Card,5,4,On Time
+ORD00051,2025-04-15,CUST0251,Pune,Books,Cookbook,2,428.61,20,685.78,Cash on Delivery,3,3,On Time
+ORD00052,2025-01-27,CUST0023,Bengaluru,Electronics,Power Bank,1,1107.84,10,997.06,UPI,4,4,On Time
+ORD00053,2025-03-08,CUST0380,Ahmedabad,Books,Cookbook,3,436.52,5,1244.08,Credit Card,4,5,On Time
+ORD00054,2025-08-07,CUST0039,Delhi,Sports,Yoga Mat,1,848.09,0,848.09,Credit Card,5,3,On Time
+ORD00055,2025-07-09,CUST0066,Bengaluru,Sports,Running Shoes,1,2400.43,15,2040.37,UPI,2,4,On Time
+ORD00056,2025-01-21,CUST0342,Mumbai,Home & Kitchen,Cookware Set,3,2954.06,5,8419.07,Credit Card,3,5,On Time
+ORD00057,2025-10-14,CUST0384,Delhi,Toys,Puzzle Set,1,451.4,20,361.12,Cash on Delivery,5,4,On Time
+ORD00058,2025-05-02,CUST0212,Bengaluru,Toys,Board Game,3,884.72,5,2521.45,UPI,2,3,On Time
+ORD00059,2025-06-20,CUST0137,Delhi,Toys,Puzzle Set,2,378.03,5,718.26,Digital Wallet,4,3,On Time
+ORD00060,2025-02-25,CUST0114,Hyderabad,Beauty,Face Serum,3,794.11,15,2024.98,Digital Wallet,2,4,On Time
+ORD00061,2025-08-24,CUST0115,Bengaluru,Home & Kitchen,Bedsheet Set,1,1261.72,5,1198.63,Debit Card,4,3,On Time
+ORD00062,2025-07-24,CUST0396,Pune,Home & Kitchen,Bedsheet Set,2,1179.45,0,2358.9,Credit Card,6,5,Late
+ORD00063,2025-09-18,CUST0060,Pune,Beauty,Hair Dryer,1,1782.35,0,1782.35,UPI,5,5,On Time
+ORD00064,2025-05-16,CUST0223,Chennai,Electronics,Wireless Earbuds,2,2472.74,20,3956.38,Debit Card,5,5,On Time
+ORD00065,2025-06-10,CUST0296,Hyderabad,Beauty,Face Serum,2,783.74,15,1332.36,UPI,5,5,On Time
+ORD00066,2025-12-29,CUST0413,Hyderabad,Beauty,Face Serum,3,713.55,20,1712.52,Credit Card,2,4,On Time
+ORD00067,2025-02-05,CUST0161,Mumbai,Books,Cookbook,1,361.53,20,289.22,Debit Card,8,2,Late
+ORD00068,2025-06-03,CUST0168,Kolkata,Sports,Dumbbell Set,1,1746.32,15,1484.37,Debit Card,3,5,On Time
+ORD00069,2025-10-11,CUST0341,Kolkata,Clothing,Jeans,1,1409.34,15,1197.94,Debit Card,2,5,On Time
+ORD00070,2025-03-31,CUST0281,Bengaluru,Sports,Dumbbell Set,1,1488.53,15,1265.25,UPI,4,4,On Time
+ORD00071,2025-04-18,CUST0227,Ahmedabad,Beauty,Hair Dryer,1,1978.34,15,1681.59,Debit Card,1,4,On Time
+ORD00072,2025-09-19,CUST0146,Chennai,Beauty,Skincare Kit,2,1490.0,0,2980.0,UPI,2,4,On Time
+ORD00073,2025-05-01,CUST0413,Hyderabad,Books,Cookbook,1,478.29,5,454.38,UPI,5,5,On Time
+ORD00074,2025-01-24,CUST0394,Mumbai,Clothing,Jacket,1,1894.18,20,1515.34,Credit Card,3,4,On Time
+ORD00075,2025-11-19,CUST0254,Kolkata,Sports,Running Shoes,1,2980.26,15,2533.22,UPI,2,5,On Time
+ORD00076,2025-12-02,CUST0399,Kolkata,Books,Fiction Book,3,374.98,0,1124.94,UPI,7,4,Late
+ORD00077,2025-12-23,CUST0286,Hyderabad,Sports,Water Bottle,1,415.94,0,415.94,Cash on Delivery,6,3,Late
+ORD00078,2025-03-04,CUST0342,Chennai,Beauty,Skincare Kit,1,1415.71,15,1203.35,Cash on Delivery,4,5,On Time
+ORD00079,2025-08-15,CUST0229,Delhi,Sports,Water Bottle,1,395.71,20,316.57,Digital Wallet,1,3,On Time
+ORD00080,2025-09-01,CUST0327,Pune,Beauty,Hair Dryer,1,1862.3,5,1769.18,Digital Wallet,6,3,Late
+ORD00081,2025-09-24,CUST0226,Mumbai,Beauty,Skincare Kit,1,1381.75,10,1243.58,Debit Card,6,3,Late
+ORD00082,2025-05-01,CUST0277,Mumbai,Home & Kitchen,Bedsheet Set,1,1217.64,10,1095.88,UPI,2,4,On Time
+ORD00083,2025-04-29,CUST0033,Kolkata,Beauty,Skincare Kit,1,1668.36,5,1584.94,Credit Card,4,4,On Time
+ORD00084,2025-10-05,CUST0106,Kolkata,Beauty,Perfume,3,1329.43,0,3988.29,Credit Card,6,3,Late
+ORD00085,2025-10-27,CUST0195,Ahmedabad,Books,Fiction Book,1,354.79,20,283.83,UPI,3,5,On Time
+ORD00086,2025-06-30,CUST0276,Hyderabad,Home & Kitchen,Desk Lamp,3,1009.44,15,2574.07,Credit Card,4,4,On Time
+ORD00087,2025-05-20,CUST0200,Chennai,Beauty,Perfume,1,1229.4,0,1229.4,Debit Card,3,5,On Time
+ORD00088,2025-07-27,CUST0066,Bengaluru,Books,Career Guide,1,529.51,15,450.08,Cash on Delivery,5,4,On Time
+ORD00089,2025-10-31,CUST0330,Kolkata,Sports,Yoga Mat,2,927.39,0,1854.78,UPI,2,4,On Time
+ORD00090,2025-08-25,CUST0195,Chennai,Clothing,T-Shirt,2,709.83,10,1277.69,UPI,4,4,On Time
+ORD00091,2025-06-17,CUST0386,Kolkata,Home & Kitchen,Desk Lamp,1,974.63,10,877.17,UPI,5,4,On Time
+ORD00092,2025-02-11,CUST0027,Chennai,Beauty,Face Serum,2,734.02,20,1174.43,UPI,5,5,On Time
+ORD00093,2025-02-05,CUST0127,Hyderabad,Toys,Building Blocks,1,1064.73,0,1064.73,Digital Wallet,6,4,Late
+ORD00094,2025-11-15,CUST0243,Mumbai,Clothing,Jeans,1,1566.12,5,1487.81,Debit Card,4,4,On Time
+ORD00095,2025-04-22,CUST0086,Mumbai,Beauty,Hair Dryer,3,1941.86,10,5243.02,Digital Wallet,2,5,On Time
+ORD00096,2025-03-25,CUST0014,Pune,Home & Kitchen,Mixer Grinder,1,3035.52,20,2428.42,Debit Card,6,4,Late
+ORD00097,2025-07-12,CUST0304,Hyderabad,Beauty,Skincare Kit,2,1739.02,0,3478.04,UPI,4,3,On Time
+ORD00098,2025-06-04,CUST0401,Bengaluru,Toys,Building Blocks,1,964.12,20,771.3,Credit Card,5,4,On Time
+ORD00099,2025-08-08,CUST0260,Chennai,Books,Cookbook,1,371.75,0,371.75,UPI,4,4,On Time
+ORD00100,2025-08-04,CUST0222,Chennai,Toys,Puzzle Set,1,352.13,0,352.13,Debit Card,4,4,On Time
+ORD00101,2025-08-24,CUST0091,Pune,Books,Career Guide,1,548.28,15,466.04,Debit Card,3,4,On Time
+ORD00102,2025-10-03,CUST0224,Pune,Toys,Puzzle Set,1,458.4,15,389.64,UPI,1,3,On Time
+ORD00103,2025-05-06,CUST0231,Hyderabad,Toys,Building Blocks,2,1077.47,10,1939.45,Digital Wallet,2,4,On Time
+ORD00104,2025-10-19,CUST0015,Ahmedabad,Sports,Water Bottle,2,457.88,10,824.18,Digital Wallet,5,4,On Time
+ORD00105,2025-04-04,CUST0409,Pune,Beauty,Skincare Kit,1,1596.46,10,1436.81,Credit Card,4,4,On Time
+ORD00106,2025-11-02,CUST0006,Hyderabad,Books,Cookbook,1,371.97,20,297.58,UPI,4,3,On Time
+ORD00107,2025-07-28,CUST0331,Ahmedabad,Beauty,Skincare Kit,2,1640.02,15,2788.03,Credit Card,4,4,On Time
+ORD00108,2025-01-09,CUST0208,Hyderabad,Electronics,Bluetooth Speaker,1,1999.04,5,1899.09,UPI,4,4,On Time
+ORD00109,2025-10-25,CUST0272,Chennai,Home & Kitchen,Desk Lamp,1,914.54,20,731.63,Credit Card,4,4,On Time
+ORD00110,2025-10-09,CUST0139,Pune,Home & Kitchen,Bedsheet Set,1,1164.6,15,989.91,UPI,7,3,Late
+ORD00111,2025-03-03,CUST0062,Delhi,Books,Career Guide,1,560.17,10,504.15,UPI,7,3,Late
+ORD00112,2025-09-05,CUST0100,Pune,Home & Kitchen,Bedsheet Set,1,997.08,0,997.08,UPI,1,4,On Time
+ORD00113,2025-04-02,CUST0065,Pune,Home & Kitchen,Mixer Grinder,1,2794.63,20,2235.7,UPI,4,5,On Time
+ORD00114,2025-01-28,CUST0327,Ahmedabad,Sports,Dumbbell Set,1,1860.04,5,1767.04,UPI,2,4,On Time
+ORD00115,2025-01-07,CUST0246,Ahmedabad,Sports,Dumbbell Set,3,1864.49,15,4754.45,Credit Card,1,5,On Time
+ORD00116,2025-01-27,CUST0034,Kolkata,Home & Kitchen,Desk Lamp,3,998.84,0,2996.52,Credit Card,6,3,Late
+ORD00117,2025-10-23,CUST0077,Pune,Books,Fiction Book,4,313.29,5,1190.5,UPI,1,5,On Time
+ORD00118,2025-05-08,CUST0306,Hyderabad,Electronics,Power Bank,3,1323.16,20,3175.58,Digital Wallet,4,5,On Time
+ORD00119,2025-07-14,CUST0302,Kolkata,Beauty,Perfume,1,1211.63,10,1090.47,UPI,4,4,On Time
+ORD00120,2025-11-14,CUST0321,Hyderabad,Electronics,Wireless Earbuds,2,2493.55,5,4737.74,UPI,3,5,On Time
+ORD00121,2025-02-11,CUST0283,Mumbai,Clothing,Jeans,1,1244.25,5,1182.04,UPI,4,5,On Time
+ORD00122,2025-07-29,CUST0017,Hyderabad,Beauty,Perfume,1,1366.96,10,1230.26,UPI,1,5,On Time
+ORD00123,2025-05-25,CUST0352,Hyderabad,Books,Notebook Pack,1,231.32,0,231.32,Cash on Delivery,6,4,Late
+ORD00124,2025-11-17,CUST0059,Hyderabad,Sports,Running Shoes,1,3095.83,15,2631.46,Debit Card,7,5,Late
+ORD00125,2025-05-17,CUST0031,Delhi,Toys,Board Game,2,776.84,0,1553.68,Digital Wallet,5,5,On Time
+ORD00126,2025-11-01,CUST0064,Ahmedabad,Books,Cookbook,2,383.83,15,652.51,Debit Card,5,3,On Time
+ORD00127,2025-12-25,CUST0277,Ahmedabad,Beauty,Hair Dryer,1,1864.36,20,1491.49,Credit Card,3,5,On Time
+ORD00128,2025-11-03,CUST0310,Pune,Electronics,Power Bank,1,1302.12,10,1171.91,UPI,6,3,Late
+ORD00129,2025-04-28,CUST0296,Bengaluru,Books,Fiction Book,2,397.2,10,714.96,Digital Wallet,1,4,On Time
+ORD00130,2025-03-31,CUST0093,Kolkata,Beauty,Perfume,1,1487.21,10,1338.49,Debit Card,1,4,On Time
+ORD00131,2025-09-09,CUST0210,Chennai,Electronics,Power Bank,1,1106.45,10,995.81,UPI,4,3,On Time
+ORD00132,2025-02-23,CUST0211,Ahmedabad,Toys,Board Game,1,762.96,10,686.66,UPI,4,5,On Time
+ORD00133,2025-07-25,CUST0046,Chennai,Toys,Building Blocks,2,856.61,15,1456.24,UPI,3,3,On Time
+ORD00134,2025-03-01,CUST0001,Ahmedabad,Toys,Puzzle Set,1,350.64,20,280.51,Credit Card,4,3,On Time
+ORD00135,2025-04-07,CUST0388,Ahmedabad,Sports,Dumbbell Set,1,1630.78,20,1304.62,Debit Card,7,4,Late
+ORD00136,2025-01-27,CUST0068,Pune,Clothing,Sneakers,1,2615.58,20,2092.46,Credit Card,3,4,On Time
+ORD00137,2025-12-24,CUST0323,Hyderabad,Beauty,Face Serum,2,844.7,0,1689.4,Debit Card,4,4,On Time
+ORD00138,2025-06-09,CUST0209,Mumbai,Sports,Yoga Mat,2,913.31,20,1461.3,UPI,3,4,On Time
+ORD00139,2025-02-28,CUST0256,Pune,Beauty,Face Serum,1,746.52,5,709.19,Credit Card,1,5,On Time
+ORD00140,2025-05-20,CUST0125,Ahmedabad,Beauty,Perfume,1,1396.51,15,1187.03,Credit Card,5,4,On Time
+ORD00141,2025-07-16,CUST0142,Kolkata,Clothing,Jeans,1,1413.49,0,1413.49,UPI,3,3,On Time
+ORD00142,2025-09-17,CUST0372,Pune,Home & Kitchen,Mixer Grinder,1,2952.77,10,2657.49,Digital Wallet,2,3,On Time
+ORD00143,2025-10-24,CUST0229,Ahmedabad,Books,Notebook Pack,1,208.26,5,197.85,Credit Card,3,3,On Time
+ORD00144,2025-10-10,CUST0165,Hyderabad,Toys,Puzzle Set,1,446.86,15,379.83,Cash on Delivery,7,4,Late
+ORD00145,2025-05-03,CUST0398,Kolkata,Sports,Water Bottle,2,449.79,5,854.6,UPI,4,3,On Time
+ORD00146,2025-08-31,CUST0340,Delhi,Books,Notebook Pack,1,236.2,15,200.77,Credit Card,2,4,On Time
+ORD00147,2025-01-19,CUST0226,Mumbai,Clothing,Sneakers,1,2301.42,0,2301.42,Credit Card,5,5,On Time
+ORD00148,2025-08-22,CUST0336,Delhi,Electronics,Smart Watch,1,4354.63,15,3701.44,UPI,1,5,On Time
+ORD00149,2025-05-16,CUST0169,Kolkata,Home & Kitchen,Desk Lamp,1,806.27,0,806.27,Cash on Delivery,3,4,On Time
+ORD00150,2025-11-17,CUST0019,Mumbai,Books,Notebook Pack,1,205.82,20,164.66,UPI,4,3,On Time
+ORD00151,2025-12-17,CUST0223,Mumbai,Home & Kitchen,Cookware Set,1,2976.26,0,2976.26,Digital Wallet,3,3,On Time
+ORD00152,2025-12-27,CUST0086,Pune,Toys,Building Blocks,3,1054.17,15,2688.13,Cash on Delivery,3,5,On Time
+ORD00153,2025-01-24,CUST0184,Chennai,Home & Kitchen,Mixer Grinder,1,3361.9,10,3025.71,Credit Card,4,5,On Time
+ORD00154,2025-05-06,CUST0350,Delhi,Sports,Water Bottle,1,420.3,20,336.24,UPI,3,5,On Time
+ORD00155,2025-02-10,CUST0350,Hyderabad,Sports,Water Bottle,1,439.93,20,351.94,Credit Card,1,4,On Time
+ORD00156,2025-10-26,CUST0327,Pune,Clothing,Jeans,1,1446.46,15,1229.49,Credit Card,5,3,On Time
+ORD00157,2025-12-08,CUST0347,Delhi,Electronics,Power Bank,1,1193.21,10,1073.89,UPI,3,4,On Time
+ORD00158,2025-06-26,CUST0354,Pune,Sports,Dumbbell Set,1,1513.55,15,1286.52,Credit Card,5,4,On Time
+ORD00159,2025-06-04,CUST0055,Hyderabad,Clothing,Jacket,1,2214.35,15,1882.2,Credit Card,5,5,On Time
+ORD00160,2025-07-03,CUST0012,Kolkata,Sports,Dumbbell Set,1,1655.04,10,1489.54,UPI,5,4,On Time
+ORD00161,2025-10-17,CUST0382,Ahmedabad,Toys,Building Blocks,2,1082.53,20,1732.05,Digital Wallet,4,4,On Time
+ORD00162,2025-05-27,CUST0411,Chennai,Toys,Board Game,3,723.5,20,1736.4,UPI,4,4,On Time
+ORD00163,2025-04-08,CUST0322,Mumbai,Sports,Dumbbell Set,1,1874.33,5,1780.61,Cash on Delivery,4,4,On Time
+ORD00164,2025-11-27,CUST0018,Chennai,Electronics,Bluetooth Speaker,1,1618.37,15,1375.61,Debit Card,4,4,On Time
+ORD00165,2025-02-16,CUST0090,Hyderabad,Home & Kitchen,Bedsheet Set,2,1107.61,15,1882.94,UPI,5,4,On Time
+ORD00166,2025-10-04,CUST0132,Ahmedabad,Home & Kitchen,Bedsheet Set,1,1204.48,5,1144.26,Cash on Delivery,1,3,On Time
+ORD00167,2025-06-01,CUST0240,Mumbai,Books,Cookbook,1,394.97,0,394.97,UPI,4,5,On Time
+ORD00168,2025-04-26,CUST0188,Mumbai,Toys,Puzzle Set,1,447.95,20,358.36,Digital Wallet,5,2,On Time
+ORD00169,2025-01-08,CUST0189,Pune,Home & Kitchen,Mixer Grinder,3,3319.27,15,8464.14,Debit Card,1,5,On Time
+ORD00170,2025-11-23,CUST0242,Bengaluru,Home & Kitchen,Mixer Grinder,1,3482.26,5,3308.15,Debit Card,5,5,On Time
+ORD00171,2025-10-15,CUST0326,Ahmedabad,Home & Kitchen,Cookware Set,3,2825.11,0,8475.33,Cash on Delivery,3,3,On Time
+ORD00172,2025-06-04,CUST0072,Bengaluru,Books,Notebook Pack,1,236.1,0,236.1,Cash on Delivery,4,4,On Time
+ORD00173,2025-06-05,CUST0121,Delhi,Beauty,Face Serum,2,834.77,0,1669.54,Credit Card,5,4,On Time
+ORD00174,2025-07-09,CUST0381,Delhi,Books,Notebook Pack,1,242.87,20,194.3,Cash on Delivery,3,3,On Time
+ORD00175,2025-12-02,CUST0209,Pune,Electronics,Power Bank,2,1073.97,20,1718.35,UPI,5,3,On Time
+ORD00176,2025-07-09,CUST0121,Chennai,Clothing,Jacket,2,2188.92,15,3721.16,UPI,4,5,On Time
+ORD00177,2025-12-18,CUST0204,Pune,Home & Kitchen,Bedsheet Set,1,1049.08,0,1049.08,UPI,1,5,On Time
+ORD00178,2025-03-04,CUST0340,Hyderabad,Toys,Puzzle Set,1,453.67,0,453.67,Debit Card,4,3,On Time
+ORD00179,2025-11-02,CUST0125,Delhi,Electronics,Wireless Earbuds,1,2273.56,10,2046.2,Digital Wallet,4,5,On Time
+ORD00180,2025-04-16,CUST0111,Hyderabad,Electronics,Smart Watch,2,4281.65,20,6850.64,UPI,2,4,On Time
+ORD00181,2025-03-17,CUST0075,Delhi,Toys,Building Blocks,1,980.41,10,882.37,Credit Card,6,3,Late
+ORD00182,2025-03-31,CUST0008,Chennai,Electronics,Wireless Earbuds,3,2480.88,5,7070.51,Digital Wallet,2,4,On Time
+ORD00183,2025-05-02,CUST0090,Pune,Sports,Dumbbell Set,4,1872.84,0,7491.36,UPI,4,5,On Time
+ORD00184,2025-08-04,CUST0244,Ahmedabad,Sports,Yoga Mat,1,824.25,0,824.25,Digital Wallet,3,4,On Time
+ORD00185,2025-09-20,CUST0258,Hyderabad,Sports,Yoga Mat,2,723.68,15,1230.26,Cash on Delivery,2,3,On Time
+ORD00186,2025-01-23,CUST0330,Bengaluru,Books,Cookbook,1,472.9,15,401.96,UPI,2,3,On Time
+ORD00187,2025-09-03,CUST0352,Mumbai,Toys,Puzzle Set,2,394.27,15,670.26,Credit Card,3,3,On Time
+ORD00188,2025-08-16,CUST0312,Delhi,Electronics,Wireless Earbuds,1,1986.42,10,1787.78,UPI,1,4,On Time
+ORD00189,2025-05-21,CUST0306,Pune,Sports,Dumbbell Set,3,1629.82,15,4156.04,Credit Card,7,4,Late
+ORD00190,2025-11-06,CUST0336,Hyderabad,Beauty,Face Serum,1,786.8,0,786.8,Credit Card,3,3,On Time
+ORD00191,2025-04-27,CUST0205,Kolkata,Beauty,Hair Dryer,1,2183.22,15,1855.74,Debit Card,8,3,Late
+ORD00192,2025-06-10,CUST0192,Delhi,Beauty,Hair Dryer,1,2042.48,10,1838.23,Debit Card,4,4,On Time
+ORD00193,2025-08-31,CUST0048,Kolkata,Electronics,Wireless Earbuds,1,1995.85,0,1995.85,UPI,4,4,On Time
+ORD00194,2025-07-10,CUST0031,Chennai,Toys,Board Game,1,695.77,20,556.62,Debit Card,3,5,On Time
+ORD00195,2025-07-30,CUST0148,Pune,Home & Kitchen,Desk Lamp,1,884.01,0,884.01,Credit Card,6,2,Late
+ORD00196,2025-10-23,CUST0337,Ahmedabad,Sports,Running Shoes,1,2532.82,5,2406.18,UPI,1,3,On Time
+ORD00197,2025-02-25,CUST0391,Pune,Home & Kitchen,Bedsheet Set,2,1069.88,0,2139.76,Debit Card,5,5,On Time
+ORD00198,2025-08-08,CUST0337,Pune,Toys,Building Blocks,1,870.76,20,696.61,UPI,5,3,On Time
+ORD00199,2025-05-20,CUST0180,Bengaluru,Books,Cookbook,1,370.12,10,333.11,UPI,3,4,On Time
+ORD00200,2025-03-15,CUST0073,Bengaluru,Sports,Water Bottle,2,414.65,0,829.3,UPI,3,4,On Time
+ORD00201,2025-09-29,CUST0233,Chennai,Clothing,Jacket,2,2324.09,15,3950.95,UPI,3,5,On Time
+ORD00202,2025-06-09,CUST0306,Mumbai,Books,Cookbook,2,382.83,20,612.53,Cash on Delivery,5,4,On Time
+ORD00203,2025-03-21,CUST0140,Ahmedabad,Clothing,T-Shirt,1,569.17,0,569.17,Debit Card,4,3,On Time
+ORD00204,2025-09-06,CUST0140,Hyderabad,Sports,Water Bottle,1,503.01,15,427.56,Digital Wallet,3,5,On Time
+ORD00205,2025-02-28,CUST0146,Ahmedabad,Home & Kitchen,Desk Lamp,1,867.52,0,867.52,Credit Card,1,5,On Time
+ORD00206,2025-06-07,CUST0307,Bengaluru,Electronics,Smart Watch,1,3696.73,15,3142.22,UPI,1,5,On Time
+ORD00207,2025-06-04,CUST0149,Chennai,Clothing,Jeans,1,1588.35,10,1429.51,UPI,3,4,On Time
+ORD00208,2025-09-12,CUST0067,Kolkata,Books,Notebook Pack,2,219.17,5,416.42,Credit Card,4,4,On Time
+ORD00209,2025-04-28,CUST0204,Bengaluru,Sports,Dumbbell Set,1,1456.46,0,1456.46,Credit Card,4,3,On Time
+ORD00210,2025-08-24,CUST0220,Kolkata,Electronics,Bluetooth Speaker,1,1669.26,20,1335.41,Debit Card,4,4,On Time
+ORD00211,2025-08-02,CUST0011,Chennai,Home & Kitchen,Mixer Grinder,4,3224.66,15,10963.84,UPI,3,3,On Time
+ORD00212,2025-11-13,CUST0224,Mumbai,Beauty,Hair Dryer,1,2136.15,0,2136.15,UPI,4,3,On Time
+ORD00213,2025-10-29,CUST0159,Chennai,Beauty,Face Serum,1,762.19,15,647.86,UPI,5,4,On Time
+ORD00214,2025-03-28,CUST0262,Hyderabad,Electronics,Wireless Earbuds,1,1877.26,20,1501.81,Cash on Delivery,4,5,On Time
+ORD00215,2025-06-28,CUST0053,Delhi,Home & Kitchen,Cookware Set,1,2728.73,5,2592.29,UPI,1,3,On Time
+ORD00216,2025-03-30,CUST0091,Ahmedabad,Sports,Running Shoes,1,2419.45,0,2419.45,Credit Card,5,4,On Time
+ORD00217,2025-10-16,CUST0330,Chennai,Toys,Puzzle Set,1,412.38,20,329.9,Digital Wallet,3,3,On Time
+ORD00218,2025-11-18,CUST0035,Ahmedabad,Home & Kitchen,Cookware Set,1,2487.42,15,2114.31,Credit Card,2,5,On Time
+ORD00219,2025-06-05,CUST0029,Chennai,Toys,Remote Car,1,1489.22,20,1191.38,Credit Card,5,4,On Time
+ORD00220,2025-06-08,CUST0030,Chennai,Beauty,Perfume,2,1188.83,0,2377.66,Digital Wallet,3,4,On Time
+ORD00221,2025-02-09,CUST0305,Kolkata,Books,Fiction Book,1,360.17,20,288.14,Credit Card,6,3,Late
+ORD00222,2025-10-11,CUST0415,Hyderabad,Toys,Building Blocks,1,828.91,15,704.57,UPI,4,5,On Time
+ORD00223,2025-09-01,CUST0231,Mumbai,Sports,Running Shoes,2,2745.25,0,5490.5,Digital Wallet,5,4,On Time
+ORD00224,2025-06-25,CUST0331,Delhi,Books,Fiction Book,2,370.44,20,592.7,UPI,5,3,On Time
+ORD00225,2025-12-29,CUST0268,Delhi,Beauty,Perfume,1,1140.72,20,912.58,Credit Card,4,5,On Time
+ORD00226,2025-05-25,CUST0348,Bengaluru,Beauty,Perfume,1,1316.34,10,1184.71,Digital Wallet,4,5,On Time
+ORD00227,2025-11-28,CUST0049,Kolkata,Home & Kitchen,Mixer Grinder,2,3352.43,10,6034.37,UPI,5,4,On Time
+ORD00228,2025-12-03,CUST0042,Delhi,Sports,Running Shoes,1,2791.12,10,2512.01,Cash on Delivery,4,4,On Time
+ORD00229,2025-06-08,CUST0305,Mumbai,Books,Notebook Pack,1,224.48,5,213.26,UPI,2,5,On Time
+ORD00230,2025-07-12,CUST0344,Mumbai,Books,Cookbook,3,479.35,5,1366.15,Debit Card,4,5,On Time
+ORD00231,2025-08-05,CUST0186,Pune,Sports,Dumbbell Set,2,1875.72,0,3751.44,UPI,5,4,On Time
+ORD00232,2025-04-20,CUST0116,Delhi,Home & Kitchen,Desk Lamp,1,925.99,5,879.69,UPI,3,4,On Time
+ORD00233,2025-06-01,CUST0395,Bengaluru,Toys,Building Blocks,1,1005.94,20,804.75,Debit Card,6,3,Late
+ORD00234,2025-11-13,CUST0084,Delhi,Clothing,Jacket,1,1983.63,5,1884.45,Digital Wallet,6,4,Late
+ORD00235,2025-11-16,CUST0023,Kolkata,Toys,Board Game,1,830.21,15,705.68,Credit Card,4,5,On Time
+ORD00236,2025-05-02,CUST0120,Hyderabad,Beauty,Hair Dryer,1,1628.91,15,1384.57,UPI,4,5,On Time
+ORD00237,2025-08-29,CUST0348,Ahmedabad,Toys,Board Game,3,871.71,10,2353.62,Credit Card,3,5,On Time
+ORD00238,2025-05-25,CUST0271,Kolkata,Toys,Puzzle Set,1,415.3,20,332.24,Cash on Delivery,3,5,On Time
+ORD00239,2025-04-13,CUST0027,Ahmedabad,Toys,Board Game,1,857.02,10,771.32,Digital Wallet,3,4,On Time
+ORD00240,2025-10-11,CUST0043,Delhi,Electronics,Wireless Earbuds,1,2059.58,10,1853.62,UPI,2,3,On Time
+ORD00241,2025-09-20,CUST0114,Ahmedabad,Clothing,Jacket,1,1796.26,0,1796.26,Cash on Delivery,4,4,On Time
+ORD00242,2025-01-14,CUST0258,Chennai,Beauty,Face Serum,1,790.42,15,671.86,UPI,5,4,On Time
+ORD00243,2025-02-11,CUST0164,Mumbai,Home & Kitchen,Cookware Set,3,2574.57,0,7723.71,Digital Wallet,2,4,On Time
+ORD00244,2025-11-29,CUST0020,Pune,Home & Kitchen,Cookware Set,4,2390.7,5,9084.66,Cash on Delivery,4,4,On Time
+ORD00245,2025-08-30,CUST0230,Bengaluru,Books,Career Guide,1,501.9,15,426.61,Cash on Delivery,3,4,On Time
+ORD00246,2025-01-10,CUST0281,Kolkata,Home & Kitchen,Cookware Set,1,2355.42,5,2237.65,UPI,3,5,On Time
+ORD00247,2025-05-28,CUST0025,Hyderabad,Clothing,Sneakers,1,2737.75,0,2737.75,Credit Card,6,3,Late
+ORD00248,2025-11-15,CUST0256,Bengaluru,Beauty,Face Serum,2,672.13,0,1344.26,Debit Card,3,5,On Time
+ORD00249,2025-10-22,CUST0220,Bengaluru,Clothing,Jeans,1,1415.53,10,1273.98,Debit Card,6,5,Late
+ORD00250,2025-05-04,CUST0341,Mumbai,Sports,Water Bottle,1,500.96,5,475.91,Credit Card,3,4,On Time
+ORD00251,2025-07-04,CUST0241,Bengaluru,Electronics,Wireless Earbuds,3,2500.73,15,6376.86,Debit Card,4,4,On Time
+ORD00252,2025-07-11,CUST0404,Mumbai,Home & Kitchen,Mixer Grinder,2,3248.82,10,5847.88,Credit Card,3,3,On Time
+ORD00253,2025-12-03,CUST0377,Chennai,Books,Fiction Book,1,324.77,20,259.82,UPI,4,5,On Time
+ORD00254,2025-06-30,CUST0399,Ahmedabad,Sports,Dumbbell Set,1,1557.29,5,1479.43,Cash on Delivery,3,4,On Time
+ORD00255,2025-09-03,CUST0033,Ahmedabad,Books,Career Guide,2,499.27,5,948.61,UPI,8,3,Late
+ORD00256,2025-04-14,CUST0162,Pune,Electronics,Smart Watch,2,3626.5,0,7253.0,Credit Card,5,5,On Time
+ORD00257,2025-10-06,CUST0386,Hyderabad,Beauty,Hair Dryer,1,2115.82,0,2115.82,UPI,5,5,On Time
+ORD00258,2025-01-25,CUST0064,Chennai,Toys,Remote Car,2,1665.28,10,2997.5,Credit Card,5,5,On Time
+ORD00259,2025-07-24,CUST0174,Delhi,Books,Notebook Pack,2,231.89,15,394.21,Credit Card,6,4,Late
+ORD00260,2025-09-12,CUST0373,Kolkata,Home & Kitchen,Bedsheet Set,1,1225.69,0,1225.69,UPI,3,4,On Time
+ORD00261,2025-11-05,CUST0151,Chennai,Toys,Board Game,1,858.44,20,686.75,UPI,4,4,On Time
+ORD00262,2025-06-17,CUST0229,Kolkata,Books,Cookbook,2,420.94,10,757.69,UPI,4,4,On Time
+ORD00263,2025-08-16,CUST0373,Chennai,Home & Kitchen,Desk Lamp,1,835.15,0,835.15,Debit Card,5,5,On Time
+ORD00264,2025-08-11,CUST0344,Kolkata,Home & Kitchen,Mixer Grinder,2,2822.7,0,5645.4,Credit Card,4,5,On Time
+ORD00265,2025-12-14,CUST0312,Ahmedabad,Clothing,T-Shirt,3,619.17,5,1764.63,UPI,5,4,On Time
+ORD00266,2025-02-04,CUST0197,Bengaluru,Clothing,Sneakers,1,2714.8,10,2443.32,Debit Card,3,4,On Time
+ORD00267,2025-12-14,CUST0228,Mumbai,Beauty,Hair Dryer,1,2018.66,10,1816.79,Debit Card,4,4,On Time
+ORD00268,2025-09-29,CUST0333,Pune,Home & Kitchen,Desk Lamp,1,932.65,10,839.38,UPI,3,4,On Time
+ORD00269,2025-02-28,CUST0266,Kolkata,Electronics,Smart Watch,2,3258.03,15,5538.65,Cash on Delivery,6,4,Late
+ORD00270,2025-03-02,CUST0110,Pune,Home & Kitchen,Bedsheet Set,2,1082.15,15,1839.66,Debit Card,1,2,On Time
+ORD00271,2025-09-09,CUST0038,Ahmedabad,Clothing,T-Shirt,1,707.49,5,672.12,UPI,2,5,On Time
+ORD00272,2025-08-16,CUST0364,Mumbai,Electronics,Bluetooth Speaker,1,1897.47,10,1707.72,Credit Card,2,5,On Time
+ORD00273,2025-05-29,CUST0407,Chennai,Home & Kitchen,Cookware Set,3,2327.83,5,6634.32,Credit Card,5,4,On Time
+ORD00274,2025-03-04,CUST0405,Ahmedabad,Clothing,Jeans,1,1458.18,5,1385.27,UPI,1,4,On Time
+ORD00275,2025-10-11,CUST0412,Delhi,Sports,Dumbbell Set,4,1653.76,15,5622.78,Debit Card,3,4,On Time
+ORD00276,2025-02-14,CUST0368,Ahmedabad,Electronics,Bluetooth Speaker,1,1546.81,15,1314.79,Credit Card,2,5,On Time
+ORD00277,2025-07-29,CUST0163,Mumbai,Toys,Building Blocks,2,942.36,5,1790.48,Credit Card,4,4,On Time
+ORD00278,2025-12-15,CUST0400,Delhi,Sports,Dumbbell Set,2,1875.84,5,3564.1,Digital Wallet,5,5,On Time
+ORD00279,2025-03-08,CUST0266,Delhi,Beauty,Face Serum,1,644.82,0,644.82,UPI,4,5,On Time
+ORD00280,2025-03-24,CUST0266,Pune,Home & Kitchen,Cookware Set,2,2585.59,10,4654.06,Digital Wallet,3,5,On Time
+ORD00281,2025-05-09,CUST0321,Pune,Clothing,Sneakers,1,2393.95,5,2274.25,Debit Card,4,4,On Time
+ORD00282,2025-02-17,CUST0298,Delhi,Sports,Running Shoes,1,3049.95,20,2439.96,UPI,3,3,On Time
+ORD00283,2025-11-16,CUST0022,Bengaluru,Books,Cookbook,1,366.13,20,292.9,UPI,3,2,On Time
+ORD00284,2025-11-25,CUST0393,Kolkata,Toys,Remote Car,1,1406.25,5,1335.94,Debit Card,5,4,On Time
+ORD00285,2025-01-16,CUST0248,Hyderabad,Beauty,Hair Dryer,2,1637.58,10,2947.64,Digital Wallet,2,4,On Time
+ORD00286,2025-12-17,CUST0038,Bengaluru,Beauty,Hair Dryer,1,2177.4,15,1850.79,UPI,4,3,On Time
+ORD00287,2025-08-01,CUST0175,Delhi,Beauty,Perfume,1,1378.96,5,1310.01,UPI,3,4,On Time
+ORD00288,2025-06-13,CUST0067,Chennai,Books,Cookbook,1,422.23,15,358.9,Credit Card,3,4,On Time
+ORD00289,2025-02-24,CUST0063,Pune,Home & Kitchen,Cookware Set,1,2271.29,15,1930.6,Credit Card,2,4,On Time
+ORD00290,2025-03-14,CUST0197,Kolkata,Electronics,Wireless Earbuds,1,2325.05,10,2092.55,UPI,3,5,On Time
+ORD00291,2025-03-23,CUST0370,Chennai,Toys,Remote Car,1,1322.06,20,1057.65,UPI,6,5,Late
+ORD00292,2025-03-23,CUST0158,Ahmedabad,Beauty,Perfume,1,1470.12,15,1249.6,UPI,4,4,On Time
+ORD00293,2025-07-21,CUST0111,Chennai,Sports,Water Bottle,2,500.08,5,950.15,UPI,5,5,On Time
+ORD00294,2025-05-25,CUST0275,Bengaluru,Beauty,Perfume,1,1422.78,10,1280.5,Digital Wallet,6,4,Late
+ORD00295,2025-08-09,CUST0392,Kolkata,Clothing,Sneakers,1,2503.38,10,2253.04,Credit Card,7,4,Late
+ORD00296,2025-07-25,CUST0284,Pune,Electronics,Smart Watch,1,3298.8,10,2968.92,UPI,3,4,On Time
+ORD00297,2025-09-16,CUST0349,Mumbai,Beauty,Hair Dryer,2,1739.95,20,2783.92,UPI,5,4,On Time
+ORD00298,2025-02-19,CUST0286,Chennai,Beauty,Hair Dryer,2,1898.97,10,3418.15,Digital Wallet,7,4,Late
+ORD00299,2025-04-12,CUST0021,Bengaluru,Sports,Water Bottle,1,517.01,20,413.61,UPI,4,4,On Time
+ORD00300,2025-06-20,CUST0234,Delhi,Toys,Puzzle Set,1,421.63,20,337.3,Debit Card,3,3,On Time
+ORD00301,2025-09-21,CUST0164,Delhi,Clothing,Sneakers,2,2563.56,20,4101.7,Credit Card,3,5,On Time
+ORD00302,2025-11-12,CUST0173,Ahmedabad,Books,Cookbook,1,403.75,20,323.0,Debit Card,4,5,On Time
+ORD00303,2025-06-03,CUST0170,Mumbai,Beauty,Face Serum,1,800.68,10,720.61,Cash on Delivery,6,4,Late
+ORD00304,2025-10-26,CUST0243,Pune,Home & Kitchen,Mixer Grinder,3,3124.85,20,7499.64,Cash on Delivery,5,3,On Time
+ORD00305,2025-10-24,CUST0299,Ahmedabad,Sports,Running Shoes,3,2556.96,0,7670.88,UPI,6,5,Late
+ORD00306,2025-11-19,CUST0349,Hyderabad,Books,Notebook Pack,2,195.68,5,371.79,UPI,5,4,On Time
+ORD00307,2025-12-25,CUST0226,Chennai,Electronics,Smart Watch,1,3500.8,0,3500.8,Credit Card,4,5,On Time
+ORD00308,2025-07-31,CUST0257,Ahmedabad,Books,Career Guide,1,555.61,15,472.27,Digital Wallet,5,2,On Time
+ORD00309,2025-02-01,CUST0107,Chennai,Books,Career Guide,1,513.94,20,411.15,Cash on Delivery,3,3,On Time
+ORD00310,2025-09-02,CUST0089,Ahmedabad,Sports,Water Bottle,3,417.35,10,1126.85,Cash on Delivery,1,5,On Time
+ORD00311,2025-06-25,CUST0313,Ahmedabad,Sports,Dumbbell Set,2,1511.75,10,2721.15,UPI,4,4,On Time
+ORD00312,2025-05-07,CUST0153,Pune,Home & Kitchen,Bedsheet Set,1,959.25,5,911.29,Debit Card,4,3,On Time
+ORD00313,2025-12-20,CUST0246,Chennai,Books,Notebook Pack,1,241.71,10,217.54,Debit Card,1,4,On Time
+ORD00314,2025-05-21,CUST0347,Kolkata,Home & Kitchen,Mixer Grinder,1,3398.51,20,2718.81,Cash on Delivery,3,4,On Time
+ORD00315,2025-07-22,CUST0149,Bengaluru,Toys,Remote Car,1,1606.38,5,1526.06,UPI,3,5,On Time
+ORD00316,2025-02-10,CUST0383,Ahmedabad,Home & Kitchen,Desk Lamp,2,982.53,10,1768.55,UPI,5,4,On Time
+ORD00317,2025-10-03,CUST0056,Hyderabad,Home & Kitchen,Bedsheet Set,1,971.93,5,923.33,UPI,4,4,On Time
+ORD00318,2025-12-09,CUST0027,Mumbai,Sports,Running Shoes,1,3166.75,5,3008.41,Credit Card,5,4,On Time
+ORD00319,2025-08-30,CUST0282,Delhi,Electronics,Smart Watch,1,3808.25,0,3808.25,Credit Card,5,4,On Time
+ORD00320,2025-09-01,CUST0165,Pune,Beauty,Skincare Kit,1,1607.49,10,1446.74,Debit Card,7,3,Late
+ORD00321,2025-02-15,CUST0379,Bengaluru,Books,Career Guide,1,429.5,20,343.6,Cash on Delivery,6,3,Late
+ORD00322,2025-03-31,CUST0204,Ahmedabad,Beauty,Skincare Kit,1,1683.25,0,1683.25,UPI,3,5,On Time
+ORD00323,2025-05-29,CUST0291,Mumbai,Electronics,Wireless Earbuds,2,1986.92,10,3576.46,Cash on Delivery,5,4,On Time
+ORD00324,2025-06-21,CUST0269,Ahmedabad,Home & Kitchen,Desk Lamp,3,949.48,20,2278.75,Cash on Delivery,8,3,Late
+ORD00325,2025-03-10,CUST0099,Mumbai,Toys,Puzzle Set,2,408.47,10,735.25,UPI,6,5,Late
+ORD00326,2025-08-23,CUST0008,Chennai,Books,Cookbook,1,440.02,5,418.02,Digital Wallet,6,3,Late
+ORD00327,2025-10-18,CUST0313,Kolkata,Books,Career Guide,1,523.68,5,497.5,Digital Wallet,4,4,On Time
+ORD00328,2025-09-21,CUST0343,Mumbai,Home & Kitchen,Mixer Grinder,2,3471.09,15,5900.85,UPI,6,4,Late
+ORD00329,2025-03-13,CUST0004,Pune,Beauty,Hair Dryer,2,1845.36,5,3506.18,Credit Card,6,3,Late
+ORD00330,2025-08-17,CUST0155,Bengaluru,Toys,Remote Car,2,1618.03,10,2912.45,UPI,3,5,On Time
+ORD00331,2025-07-04,CUST0342,Mumbai,Books,Career Guide,2,443.03,0,886.06,Credit Card,3,4,On Time
+ORD00332,2025-03-23,CUST0328,Pune,Beauty,Hair Dryer,1,1823.88,0,1823.88,Credit Card,6,3,Late
+ORD00333,2025-04-24,CUST0079,Ahmedabad,Clothing,Jeans,1,1378.45,15,1171.68,Digital Wallet,3,3,On Time
+ORD00334,2025-11-07,CUST0242,Hyderabad,Home & Kitchen,Desk Lamp,1,784.76,20,627.81,Digital Wallet,6,5,Late
+ORD00335,2025-12-15,CUST0229,Chennai,Toys,Building Blocks,1,939.6,20,751.68,UPI,5,4,On Time
+ORD00336,2025-10-16,CUST0259,Hyderabad,Electronics,Wireless Earbuds,1,2186.26,20,1749.01,Debit Card,1,3,On Time
+ORD00337,2025-03-18,CUST0227,Mumbai,Clothing,Sneakers,1,2424.19,20,1939.35,Debit Card,6,4,Late
+ORD00338,2025-10-26,CUST0229,Bengaluru,Beauty,Face Serum,2,799.08,20,1278.53,Credit Card,5,4,On Time
+ORD00339,2025-09-20,CUST0030,Ahmedabad,Beauty,Perfume,1,1466.54,20,1173.23,Debit Card,2,4,On Time
+ORD00340,2025-06-07,CUST0131,Bengaluru,Books,Fiction Book,1,324.46,15,275.79,Digital Wallet,2,3,On Time
+ORD00341,2025-10-24,CUST0177,Mumbai,Electronics,Wireless Earbuds,2,2225.85,15,3783.94,Credit Card,5,3,On Time
+ORD00342,2025-01-31,CUST0147,Kolkata,Electronics,Power Bank,2,1118.14,0,2236.28,UPI,2,4,On Time
+ORD00343,2025-03-11,CUST0196,Ahmedabad,Toys,Puzzle Set,1,421.73,10,379.56,Digital Wallet,4,3,On Time
+ORD00344,2025-07-13,CUST0069,Chennai,Beauty,Face Serum,2,661.55,20,1058.48,UPI,1,4,On Time
+ORD00345,2025-10-03,CUST0002,Bengaluru,Beauty,Skincare Kit,3,1592.1,5,4537.48,Cash on Delivery,4,5,On Time
+ORD00346,2025-08-26,CUST0195,Hyderabad,Books,Notebook Pack,1,228.79,20,183.03,UPI,4,5,On Time
+ORD00347,2025-06-27,CUST0372,Mumbai,Clothing,Sneakers,2,2676.63,5,5085.6,UPI,3,4,On Time
+ORD00348,2025-12-05,CUST0106,Mumbai,Beauty,Face Serum,1,729.98,5,693.48,UPI,2,4,On Time
+ORD00349,2025-01-18,CUST0380,Bengaluru,Beauty,Face Serum,2,699.33,5,1328.73,Credit Card,3,5,On Time
+ORD00350,2025-04-30,CUST0072,Pune,Sports,Running Shoes,2,2460.25,0,4920.5,UPI,2,5,On Time
+ORD00351,2025-10-22,CUST0155,Delhi,Home & Kitchen,Bedsheet Set,1,990.44,5,940.92,Cash on Delivery,5,4,On Time
+ORD00352,2025-09-24,CUST0141,Bengaluru,Clothing,Jacket,1,1845.3,10,1660.77,Credit Card,4,4,On Time
+ORD00353,2025-10-30,CUST0285,Ahmedabad,Books,Career Guide,1,507.0,15,430.95,UPI,3,3,On Time
+ORD00354,2025-06-26,CUST0164,Kolkata,Books,Notebook Pack,1,219.79,20,175.83,Credit Card,2,5,On Time
+ORD00355,2025-06-03,CUST0243,Hyderabad,Beauty,Skincare Kit,1,1704.45,20,1363.56,Digital Wallet,5,5,On Time
+ORD00356,2025-06-03,CUST0030,Kolkata,Toys,Board Game,1,699.06,15,594.2,Cash on Delivery,3,3,On Time
+ORD00357,2025-10-13,CUST0125,Pune,Sports,Running Shoes,1,2678.2,15,2276.47,UPI,4,3,On Time
+ORD00358,2025-11-28,CUST0048,Hyderabad,Electronics,Power Bank,1,1308.13,10,1177.32,UPI,4,3,On Time
+ORD00359,2025-07-13,CUST0097,Hyderabad,Books,Fiction Book,3,365.84,0,1097.52,Credit Card,1,4,On Time
+ORD00360,2025-06-20,CUST0098,Mumbai,Home & Kitchen,Mixer Grinder,1,3362.71,5,3194.57,Digital Wallet,7,4,Late
+ORD00361,2025-09-03,CUST0123,Chennai,Clothing,Jeans,1,1215.26,15,1032.97,Digital Wallet,5,4,On Time
+ORD00362,2025-07-14,CUST0134,Chennai,Beauty,Hair Dryer,1,2008.3,10,1807.47,Credit Card,4,3,On Time
+ORD00363,2025-09-12,CUST0390,Chennai,Beauty,Face Serum,1,738.83,15,628.01,Cash on Delivery,2,5,On Time
+ORD00364,2025-07-09,CUST0289,Hyderabad,Home & Kitchen,Desk Lamp,2,979.77,0,1959.54,Digital Wallet,2,4,On Time
+ORD00365,2025-01-09,CUST0079,Hyderabad,Home & Kitchen,Desk Lamp,4,1015.29,10,3655.04,UPI,6,4,Late
+ORD00366,2025-07-14,CUST0282,Chennai,Sports,Running Shoes,1,2903.81,15,2468.24,UPI,4,4,On Time
+ORD00367,2025-09-08,CUST0087,Chennai,Books,Notebook Pack,1,241.52,15,205.29,UPI,5,5,On Time
+ORD00368,2025-10-07,CUST0329,Bengaluru,Beauty,Skincare Kit,1,1505.5,20,1204.4,Credit Card,2,3,On Time
+ORD00369,2025-02-08,CUST0212,Delhi,Toys,Building Blocks,1,1074.53,0,1074.53,Digital Wallet,1,5,On Time
+ORD00370,2025-04-29,CUST0112,Ahmedabad,Electronics,Smart Watch,1,3739.81,0,3739.81,Credit Card,4,5,On Time
+ORD00371,2025-11-13,CUST0009,Bengaluru,Books,Notebook Pack,3,219.8,15,560.49,Credit Card,4,4,On Time
+ORD00372,2025-07-30,CUST0370,Pune,Electronics,Wireless Earbuds,1,2449.46,20,1959.57,Credit Card,4,4,On Time
+ORD00373,2025-05-27,CUST0055,Mumbai,Electronics,Power Bank,2,1129.68,5,2146.39,Credit Card,3,3,On Time
+ORD00374,2025-05-04,CUST0137,Kolkata,Clothing,Sneakers,1,2540.36,10,2286.32,UPI,4,4,On Time
+ORD00375,2025-07-27,CUST0154,Mumbai,Beauty,Skincare Kit,2,1754.79,5,3334.1,Debit Card,4,5,On Time
+ORD00376,2025-11-29,CUST0208,Kolkata,Toys,Building Blocks,1,1025.47,0,1025.47,Credit Card,4,3,On Time
+ORD00377,2025-09-01,CUST0043,Ahmedabad,Electronics,Wireless Earbuds,1,1966.61,5,1868.28,Digital Wallet,3,4,On Time
+ORD00378,2025-11-27,CUST0049,Bengaluru,Toys,Remote Car,1,1335.82,20,1068.66,UPI,4,5,On Time
+ORD00379,2025-12-21,CUST0024,Mumbai,Sports,Water Bottle,3,440.89,10,1190.4,Debit Card,4,3,On Time
+ORD00380,2025-05-24,CUST0162,Bengaluru,Sports,Yoga Mat,1,749.44,5,711.97,Cash on Delivery,2,5,On Time
+ORD00381,2025-10-28,CUST0154,Delhi,Clothing,Jacket,1,2194.63,0,2194.63,Debit Card,3,5,On Time
+ORD00382,2025-10-18,CUST0170,Kolkata,Toys,Puzzle Set,1,459.38,20,367.5,Digital Wallet,4,4,On Time
+ORD00383,2025-03-13,CUST0382,Chennai,Toys,Building Blocks,4,875.67,20,2802.14,UPI,3,4,On Time
+ORD00384,2025-08-12,CUST0310,Kolkata,Clothing,T-Shirt,2,564.65,10,1016.37,Cash on Delivery,4,4,On Time
+ORD00385,2025-06-17,CUST0252,Hyderabad,Electronics,Bluetooth Speaker,2,1862.22,15,3165.77,Credit Card,5,3,On Time
+ORD00386,2025-07-12,CUST0339,Kolkata,Beauty,Skincare Kit,1,1564.52,20,1251.62,UPI,1,4,On Time
+ORD00387,2025-11-13,CUST0043,Pune,Home & Kitchen,Cookware Set,1,2533.02,0,2533.02,UPI,5,5,On Time
+ORD00388,2025-12-31,CUST0163,Chennai,Toys,Board Game,2,682.65,15,1160.5,UPI,3,2,On Time
+ORD00389,2025-01-03,CUST0390,Pune,Home & Kitchen,Desk Lamp,1,835.15,10,751.63,UPI,3,4,On Time
+ORD00390,2025-02-14,CUST0286,Kolkata,Clothing,Jacket,1,1920.58,15,1632.49,UPI,4,5,On Time
+ORD00391,2025-02-15,CUST0307,Chennai,Home & Kitchen,Mixer Grinder,1,3246.04,20,2596.83,Digital Wallet,6,4,Late
+ORD00392,2025-01-07,CUST0399,Mumbai,Home & Kitchen,Desk Lamp,1,896.83,15,762.31,Debit Card,3,3,On Time
+ORD00393,2025-10-14,CUST0087,Delhi,Clothing,Jeans,2,1389.93,15,2362.88,UPI,1,3,On Time
+ORD00394,2025-05-18,CUST0086,Kolkata,Beauty,Skincare Kit,1,1736.81,0,1736.81,UPI,3,5,On Time
+ORD00395,2025-06-03,CUST0129,Hyderabad,Beauty,Face Serum,2,735.96,10,1324.73,Debit Card,5,4,On Time
+ORD00396,2025-09-11,CUST0055,Delhi,Sports,Running Shoes,1,3137.48,15,2666.86,UPI,7,3,Late
+ORD00397,2025-07-22,CUST0226,Chennai,Home & Kitchen,Desk Lamp,2,1006.68,10,1812.02,Credit Card,6,5,Late
+ORD00398,2025-11-30,CUST0165,Hyderabad,Sports,Running Shoes,1,2815.46,10,2533.91,Credit Card,4,4,On Time
+ORD00399,2025-04-01,CUST0377,Ahmedabad,Beauty,Hair Dryer,1,2002.73,10,1802.46,Cash on Delivery,3,4,On Time
+ORD00400,2025-05-05,CUST0419,Kolkata,Home & Kitchen,Desk Lamp,1,768.27,10,691.44,Credit Card,1,3,On Time
+ORD00401,2025-10-16,CUST0014,Ahmedabad,Clothing,Jeans,1,1515.35,20,1212.28,Cash on Delivery,2,5,On Time
+ORD00402,2025-04-18,CUST0420,Kolkata,Beauty,Hair Dryer,1,1671.09,0,1671.09,Debit Card,6,4,Late
+ORD00403,2025-03-13,CUST0130,Delhi,Books,Cookbook,1,359.64,5,341.66,Debit Card,5,3,On Time
+ORD00404,2025-07-13,CUST0246,Kolkata,Electronics,Power Bank,1,1157.5,20,926.0,Credit Card,3,4,On Time
+ORD00405,2025-12-21,CUST0360,Mumbai,Beauty,Face Serum,1,811.79,10,730.61,UPI,4,5,On Time
+ORD00406,2025-05-08,CUST0332,Bengaluru,Books,Cookbook,1,479.03,5,455.08,Debit Card,3,5,On Time
+ORD00407,2025-11-27,CUST0408,Kolkata,Books,Notebook Pack,4,226.72,10,816.19,UPI,6,4,Late
+ORD00408,2025-02-20,CUST0383,Hyderabad,Home & Kitchen,Cookware Set,2,2722.05,20,4355.28,Credit Card,3,3,On Time
+ORD00409,2025-07-20,CUST0013,Ahmedabad,Beauty,Skincare Kit,3,1467.82,10,3963.11,UPI,2,3,On Time
+ORD00410,2025-08-01,CUST0179,Pune,Electronics,Wireless Earbuds,1,2274.54,5,2160.81,Credit Card,3,4,On Time
+ORD00411,2025-04-16,CUST0244,Mumbai,Sports,Water Bottle,3,469.68,10,1268.14,Credit Card,5,4,On Time
+ORD00412,2025-12-23,CUST0154,Bengaluru,Beauty,Hair Dryer,2,2097.51,0,4195.02,Digital Wallet,3,4,On Time
+ORD00413,2025-02-28,CUST0347,Delhi,Electronics,Bluetooth Speaker,2,1778.69,0,3557.38,Cash on Delivery,5,5,On Time
+ORD00414,2025-05-05,CUST0082,Chennai,Sports,Running Shoes,2,2931.18,20,4689.89,Credit Card,4,3,On Time
+ORD00415,2025-08-25,CUST0096,Kolkata,Clothing,Jacket,4,2375.55,5,9027.09,Credit Card,4,4,On Time
+ORD00416,2025-11-11,CUST0220,Kolkata,Clothing,Jacket,2,1919.51,20,3071.22,UPI,6,4,Late
+ORD00417,2025-04-20,CUST0296,Mumbai,Clothing,Sneakers,2,2430.41,0,4860.82,Digital Wallet,4,5,On Time
+ORD00418,2025-10-02,CUST0101,Ahmedabad,Clothing,Sneakers,1,2446.82,10,2202.14,UPI,5,4,On Time
+ORD00419,2025-12-10,CUST0328,Chennai,Toys,Puzzle Set,1,431.33,20,345.06,Debit Card,3,3,On Time
+ORD00420,2025-11-09,CUST0181,Ahmedabad,Beauty,Face Serum,1,693.0,10,623.7,Debit Card,3,3,On Time
+ORD00421,2025-12-11,CUST0303,Mumbai,Books,Cookbook,2,382.71,20,612.34,Debit Card,7,4,Late
+ORD00422,2025-06-10,CUST0060,Delhi,Electronics,Smart Watch,1,3444.35,10,3099.91,Credit Card,6,3,Late
+ORD00423,2025-03-14,CUST0306,Delhi,Sports,Water Bottle,1,383.21,15,325.73,Debit Card,2,5,On Time
+ORD00424,2025-08-05,CUST0356,Delhi,Clothing,Jacket,3,2016.8,20,4840.32,Credit Card,2,4,On Time
+ORD00425,2025-09-08,CUST0162,Ahmedabad,Home & Kitchen,Cookware Set,1,2893.79,5,2749.1,Debit Card,7,3,Late
+ORD00426,2025-07-03,CUST0100,Kolkata,Electronics,Power Bank,3,1233.5,5,3515.47,Cash on Delivery,1,3,On Time
+ORD00427,2025-09-16,CUST0351,Ahmedabad,Books,Notebook Pack,2,187.21,15,318.26,Credit Card,1,5,On Time
+ORD00428,2025-08-16,CUST0290,Bengaluru,Beauty,Skincare Kit,2,1404.64,0,2809.28,Digital Wallet,3,5,On Time
+ORD00429,2025-04-23,CUST0116,Pune,Home & Kitchen,Mixer Grinder,2,2782.26,10,5008.07,UPI,6,5,Late
+ORD00430,2025-08-23,CUST0262,Mumbai,Sports,Water Bottle,1,463.97,20,371.18,Debit Card,5,5,On Time
+ORD00431,2025-05-18,CUST0388,Bengaluru,Toys,Remote Car,1,1646.27,20,1317.02,Digital Wallet,2,4,On Time
+ORD00432,2025-08-14,CUST0053,Hyderabad,Sports,Running Shoes,1,2660.76,15,2261.65,UPI,5,5,On Time
+ORD00433,2025-01-17,CUST0419,Mumbai,Beauty,Hair Dryer,2,1909.84,10,3437.71,Credit Card,2,4,On Time
+ORD00434,2025-03-02,CUST0416,Chennai,Toys,Board Game,1,784.16,5,744.95,Digital Wallet,4,4,On Time
+ORD00435,2025-11-09,CUST0316,Delhi,Books,Notebook Pack,1,235.55,5,223.77,Digital Wallet,2,5,On Time
+ORD00436,2025-04-16,CUST0180,Pune,Toys,Building Blocks,1,1031.41,20,825.13,Debit Card,3,3,On Time
+ORD00437,2025-03-28,CUST0294,Pune,Home & Kitchen,Bedsheet Set,2,1061.66,10,1910.99,Cash on Delivery,7,5,Late
+ORD00438,2025-09-21,CUST0385,Kolkata,Books,Fiction Book,1,335.53,5,318.75,Cash on Delivery,4,3,On Time
+ORD00439,2025-05-22,CUST0128,Delhi,Toys,Board Game,1,905.76,5,860.47,Debit Card,3,3,On Time
+ORD00440,2025-05-07,CUST0073,Pune,Toys,Puzzle Set,2,441.03,15,749.75,Debit Card,5,4,On Time
+ORD00441,2025-07-12,CUST0207,Pune,Beauty,Face Serum,1,746.17,0,746.17,Debit Card,4,5,On Time
+ORD00442,2025-07-08,CUST0298,Bengaluru,Beauty,Perfume,1,1389.51,10,1250.56,Digital Wallet,3,4,On Time
+ORD00443,2025-02-17,CUST0033,Kolkata,Books,Notebook Pack,1,195.93,10,176.34,UPI,5,5,On Time
+ORD00444,2025-08-08,CUST0138,Chennai,Toys,Board Game,3,696.55,15,1776.2,Digital Wallet,4,4,On Time
+ORD00445,2025-06-22,CUST0249,Chennai,Sports,Running Shoes,1,2587.46,20,2069.97,Cash on Delivery,3,4,On Time
+ORD00446,2025-01-25,CUST0009,Mumbai,Electronics,Wireless Earbuds,1,2371.2,15,2015.52,Cash on Delivery,6,4,Late
+ORD00447,2025-03-22,CUST0220,Hyderabad,Beauty,Perfume,1,1295.15,0,1295.15,Cash on Delivery,1,5,On Time
+ORD00448,2025-03-09,CUST0141,Mumbai,Books,Cookbook,1,470.38,5,446.86,Debit Card,4,5,On Time
+ORD00449,2025-05-09,CUST0027,Kolkata,Electronics,Bluetooth Speaker,3,1558.22,5,4440.93,Debit Card,1,4,On Time
+ORD00450,2025-12-25,CUST0336,Mumbai,Toys,Board Game,2,915.51,15,1556.37,Debit Card,5,3,On Time
+ORD00451,2025-01-01,CUST0068,Hyderabad,Clothing,Jacket,1,2141.16,0,2141.16,Credit Card,4,4,On Time
+ORD00452,2025-08-16,CUST0419,Mumbai,Electronics,Wireless Earbuds,1,2100.67,10,1890.6,Cash on Delivery,2,3,On Time
+ORD00453,2025-08-05,CUST0037,Hyderabad,Books,Career Guide,2,509.18,15,865.61,Credit Card,2,4,On Time
+ORD00454,2025-02-22,CUST0154,Delhi,Electronics,Bluetooth Speaker,2,1920.32,10,3456.58,Credit Card,4,4,On Time
+ORD00455,2025-03-10,CUST0272,Bengaluru,Books,Career Guide,1,437.26,0,437.26,Debit Card,2,2,On Time
+ORD00456,2025-03-26,CUST0322,Delhi,Beauty,Hair Dryer,1,2154.05,5,2046.35,Cash on Delivery,4,5,On Time
+ORD00457,2025-11-12,CUST0045,Mumbai,Books,Notebook Pack,1,214.18,5,203.47,UPI,5,5,On Time
+ORD00458,2025-03-05,CUST0220,Chennai,Sports,Water Bottle,1,451.69,10,406.52,Digital Wallet,3,5,On Time
+ORD00459,2025-05-07,CUST0284,Pune,Home & Kitchen,Mixer Grinder,1,3474.83,5,3301.09,Digital Wallet,3,3,On Time
+ORD00460,2025-12-20,CUST0266,Hyderabad,Electronics,Bluetooth Speaker,1,1708.32,5,1622.9,Digital Wallet,4,5,On Time
+ORD00461,2025-06-01,CUST0254,Kolkata,Books,Fiction Book,1,389.67,5,370.19,UPI,3,3,On Time
+ORD00462,2025-09-13,CUST0007,Chennai,Books,Fiction Book,4,378.56,20,1211.39,Cash on Delivery,5,4,On Time
+ORD00463,2025-03-09,CUST0280,Delhi,Beauty,Perfume,1,1299.15,10,1169.24,Digital Wallet,4,3,On Time
+ORD00464,2025-02-07,CUST0135,Hyderabad,Electronics,Wireless Earbuds,2,2121.08,0,4242.16,UPI,4,3,On Time
+ORD00465,2025-01-31,CUST0147,Kolkata,Toys,Puzzle Set,1,435.14,20,348.11,Credit Card,7,4,Late
+ORD00466,2025-07-25,CUST0043,Pune,Electronics,Smart Watch,2,3681.41,10,6626.54,UPI,4,5,On Time
+ORD00467,2025-04-15,CUST0168,Kolkata,Toys,Board Game,1,847.02,20,677.62,Debit Card,3,5,On Time
+ORD00468,2025-11-29,CUST0358,Kolkata,Books,Fiction Book,2,392.65,10,706.77,Debit Card,3,4,On Time
+ORD00469,2025-05-03,CUST0223,Mumbai,Electronics,Smart Watch,1,4249.15,0,4249.15,Credit Card,2,4,On Time
+ORD00470,2025-11-08,CUST0062,Bengaluru,Electronics,Bluetooth Speaker,1,1862.26,5,1769.15,Debit Card,4,5,On Time
+ORD00471,2025-12-26,CUST0178,Pune,Electronics,Smart Watch,3,3706.25,15,9450.94,UPI,2,4,On Time
+ORD00472,2025-03-06,CUST0395,Bengaluru,Books,Cookbook,3,410.86,0,1232.58,UPI,6,5,Late
+ORD00473,2025-08-08,CUST0365,Mumbai,Home & Kitchen,Mixer Grinder,2,3574.65,10,6434.37,Credit Card,4,4,On Time
+ORD00474,2025-09-19,CUST0291,Delhi,Home & Kitchen,Mixer Grinder,1,3543.85,15,3012.27,Credit Card,4,5,On Time
+ORD00475,2025-05-11,CUST0346,Mumbai,Toys,Building Blocks,2,897.09,20,1435.34,UPI,6,4,Late
+ORD00476,2025-09-18,CUST0126,Bengaluru,Electronics,Wireless Earbuds,1,2106.15,0,2106.15,Credit Card,6,4,Late
+ORD00477,2025-07-16,CUST0284,Kolkata,Clothing,Jeans,1,1262.98,0,1262.98,UPI,5,5,On Time
+ORD00478,2025-05-08,CUST0040,Chennai,Beauty,Hair Dryer,1,1751.73,10,1576.56,UPI,3,3,On Time
+ORD00479,2025-12-11,CUST0412,Bengaluru,Electronics,Smart Watch,1,4083.66,5,3879.48,Cash on Delivery,6,5,Late
+ORD00480,2025-02-05,CUST0168,Mumbai,Beauty,Hair Dryer,1,2094.63,10,1885.17,Credit Card,4,4,On Time
+ORD00481,2025-01-05,CUST0289,Pune,Home & Kitchen,Cookware Set,1,2308.49,10,2077.64,Debit Card,2,5,On Time
+ORD00482,2025-05-05,CUST0253,Hyderabad,Beauty,Hair Dryer,2,1654.7,20,2647.52,Debit Card,4,4,On Time
+ORD00483,2025-10-07,CUST0004,Kolkata,Toys,Board Game,1,880.89,5,836.85,UPI,5,3,On Time
+ORD00484,2025-10-05,CUST0001,Kolkata,Home & Kitchen,Mixer Grinder,2,3212.15,10,5781.87,Digital Wallet,2,4,On Time
+ORD00485,2025-06-07,CUST0122,Kolkata,Electronics,Smart Watch,1,3576.5,20,2861.2,Credit Card,5,4,On Time
+ORD00486,2025-01-31,CUST0023,Hyderabad,Clothing,Sneakers,2,2591.57,0,5183.14,Cash on Delivery,5,5,On Time
+ORD00487,2025-09-24,CUST0383,Mumbai,Beauty,Hair Dryer,1,2132.1,15,1812.28,Debit Card,5,5,On Time
+ORD00488,2025-09-16,CUST0304,Bengaluru,Clothing,Jacket,1,2066.64,0,2066.64,Credit Card,6,4,Late
+ORD00489,2025-03-08,CUST0162,Kolkata,Clothing,Sneakers,1,2313.89,10,2082.5,Debit Card,3,4,On Time
+ORD00490,2025-06-17,CUST0120,Mumbai,Home & Kitchen,Desk Lamp,2,1012.88,10,1823.18,Cash on Delivery,5,4,On Time
+ORD00491,2025-03-11,CUST0055,Delhi,Toys,Building Blocks,1,1067.07,5,1013.72,Credit Card,5,5,On Time
+ORD00492,2025-06-10,CUST0184,Hyderabad,Beauty,Face Serum,1,854.13,20,683.3,Credit Card,2,5,On Time
+ORD00493,2025-08-26,CUST0081,Pune,Home & Kitchen,Mixer Grinder,2,2990.26,0,5980.52,Digital Wallet,4,5,On Time
+ORD00494,2025-12-23,CUST0168,Delhi,Sports,Yoga Mat,1,784.18,5,744.97,UPI,4,4,On Time
+ORD00495,2025-05-08,CUST0026,Pune,Home & Kitchen,Desk Lamp,1,926.56,20,741.25,UPI,2,3,On Time
+ORD00496,2025-03-31,CUST0285,Hyderabad,Electronics,Power Bank,2,1037.33,15,1763.46,UPI,5,5,On Time
+ORD00497,2025-02-22,CUST0007,Bengaluru,Toys,Board Game,3,724.48,0,2173.44,Digital Wallet,4,4,On Time
+ORD00498,2025-04-24,CUST0191,Mumbai,Clothing,Jeans,2,1204.56,15,2047.75,Debit Card,4,5,On Time
+ORD00499,2025-05-13,CUST0034,Hyderabad,Toys,Building Blocks,1,1044.44,0,1044.44,Cash on Delivery,2,4,On Time
+ORD00500,2025-08-16,CUST0415,Chennai,Toys,Board Game,1,898.31,0,898.31,UPI,5,5,On Time
+ORD00501,2025-08-25,CUST0222,Kolkata,Electronics,Smart Watch,2,3881.82,20,6210.91,Credit Card,1,5,On Time
+ORD00502,2025-07-15,CUST0182,Hyderabad,Books,Notebook Pack,1,215.68,5,204.9,Cash on Delivery,5,5,On Time
+ORD00503,2025-05-21,CUST0018,Hyderabad,Home & Kitchen,Desk Lamp,3,884.71,5,2521.42,Debit Card,6,5,Late
+ORD00504,2025-09-13,CUST0045,Pune,Beauty,Perfume,1,1379.03,0,1379.03,Credit Card,4,3,On Time
+ORD00505,2025-08-03,CUST0407,Bengaluru,Clothing,Jeans,1,1351.49,20,1081.19,Cash on Delivery,7,3,Late
+ORD00506,2025-07-03,CUST0290,Chennai,Beauty,Perfume,3,1339.25,10,3615.97,Credit Card,4,5,On Time
+ORD00507,2025-04-03,CUST0113,Bengaluru,Electronics,Bluetooth Speaker,1,1568.3,20,1254.64,Cash on Delivery,2,3,On Time
+ORD00508,2025-05-24,CUST0184,Hyderabad,Electronics,Power Bank,1,1036.43,20,829.14,Cash on Delivery,3,4,On Time
+ORD00509,2025-02-21,CUST0274,Bengaluru,Clothing,Jeans,4,1329.17,10,4785.01,Digital Wallet,1,4,On Time
+ORD00510,2025-04-23,CUST0089,Delhi,Sports,Water Bottle,1,420.39,10,378.35,UPI,4,3,On Time
+ORD00511,2025-06-12,CUST0015,Chennai,Toys,Remote Car,1,1278.45,20,1022.76,Cash on Delivery,3,3,On Time
+ORD00512,2025-10-16,CUST0278,Pune,Clothing,Jeans,2,1430.26,15,2431.44,UPI,1,4,On Time
+ORD00513,2025-01-20,CUST0309,Hyderabad,Electronics,Wireless Earbuds,3,2132.03,5,6076.29,UPI,4,3,On Time
+ORD00514,2025-09-02,CUST0104,Delhi,Electronics,Bluetooth Speaker,1,1716.42,20,1373.14,Credit Card,6,4,Late
+ORD00515,2025-04-01,CUST0012,Delhi,Toys,Remote Car,1,1591.02,0,1591.02,Debit Card,2,3,On Time
+ORD00516,2025-03-14,CUST0187,Mumbai,Toys,Building Blocks,1,924.64,20,739.71,Credit Card,4,5,On Time
+ORD00517,2025-12-06,CUST0155,Chennai,Beauty,Face Serum,1,707.11,10,636.4,UPI,3,4,On Time
+ORD00518,2025-03-22,CUST0333,Chennai,Books,Notebook Pack,1,190.93,15,162.29,UPI,6,5,Late
+ORD00519,2025-10-15,CUST0341,Delhi,Books,Cookbook,1,405.36,5,385.09,Credit Card,1,4,On Time
+ORD00520,2025-12-19,CUST0374,Bengaluru,Home & Kitchen,Cookware Set,1,2536.78,5,2409.94,Cash on Delivery,3,4,On Time
+ORD00521,2025-10-21,CUST0309,Chennai,Beauty,Face Serum,1,717.32,5,681.45,Cash on Delivery,4,4,On Time
+ORD00522,2025-11-10,CUST0073,Chennai,Clothing,T-Shirt,2,623.07,15,1059.22,Digital Wallet,4,4,On Time
+ORD00523,2025-05-02,CUST0326,Mumbai,Home & Kitchen,Bedsheet Set,1,1236.38,5,1174.56,Digital Wallet,5,4,On Time
+ORD00524,2025-12-10,CUST0006,Pune,Books,Cookbook,2,372.19,15,632.72,UPI,2,4,On Time
+ORD00525,2025-12-21,CUST0403,Mumbai,Electronics,Bluetooth Speaker,1,1757.9,10,1582.11,Debit Card,3,3,On Time
+ORD00526,2025-01-25,CUST0086,Kolkata,Beauty,Perfume,1,1122.06,15,953.75,Credit Card,4,3,On Time
+ORD00527,2025-07-13,CUST0246,Hyderabad,Home & Kitchen,Desk Lamp,1,961.88,0,961.88,UPI,5,4,On Time
+ORD00528,2025-02-07,CUST0011,Chennai,Toys,Building Blocks,2,930.03,10,1674.05,UPI,2,5,On Time
+ORD00529,2025-02-23,CUST0193,Delhi,Electronics,Bluetooth Speaker,1,1956.05,5,1858.25,Debit Card,6,4,Late
+ORD00530,2025-10-08,CUST0315,Ahmedabad,Electronics,Bluetooth Speaker,2,1993.08,20,3188.93,Debit Card,3,5,On Time
+ORD00531,2025-08-09,CUST0223,Delhi,Books,Career Guide,1,512.33,20,409.86,UPI,6,2,Late
+ORD00532,2025-06-19,CUST0357,Pune,Clothing,Jeans,2,1479.13,15,2514.52,Debit Card,2,4,On Time
+ORD00533,2025-06-02,CUST0202,Ahmedabad,Clothing,T-Shirt,1,580.31,0,580.31,UPI,3,5,On Time
+ORD00534,2025-07-04,CUST0151,Ahmedabad,Electronics,Power Bank,1,1029.16,0,1029.16,UPI,6,5,Late
+ORD00535,2025-01-14,CUST0042,Ahmedabad,Clothing,Jeans,1,1220.12,10,1098.11,Digital Wallet,1,3,On Time
+ORD00536,2025-06-07,CUST0251,Pune,Toys,Puzzle Set,2,412.69,15,701.57,UPI,2,4,On Time
+ORD00537,2025-10-06,CUST0196,Chennai,Beauty,Skincare Kit,4,1577.92,10,5680.51,UPI,2,4,On Time
+ORD00538,2025-01-23,CUST0135,Hyderabad,Home & Kitchen,Desk Lamp,1,772.43,15,656.57,Digital Wallet,5,4,On Time
+ORD00539,2025-10-16,CUST0044,Chennai,Electronics,Smart Watch,1,3274.46,0,3274.46,Digital Wallet,4,4,On Time
+ORD00540,2025-07-31,CUST0032,Kolkata,Toys,Board Game,1,685.6,20,548.48,Digital Wallet,3,5,On Time
+ORD00541,2025-08-03,CUST0121,Ahmedabad,Sports,Water Bottle,1,504.01,20,403.21,UPI,5,4,On Time
+ORD00542,2025-07-22,CUST0293,Delhi,Toys,Building Blocks,1,1043.11,20,834.49,UPI,4,4,On Time
+ORD00543,2025-08-18,CUST0414,Hyderabad,Clothing,Jeans,1,1332.96,5,1266.31,UPI,2,4,On Time
+ORD00544,2025-08-05,CUST0322,Delhi,Electronics,Power Bank,1,1215.01,5,1154.26,Digital Wallet,5,5,On Time
+ORD00545,2025-05-13,CUST0199,Kolkata,Home & Kitchen,Mixer Grinder,1,3010.24,0,3010.24,Credit Card,2,4,On Time
+ORD00546,2025-05-22,CUST0403,Kolkata,Sports,Water Bottle,1,428.73,0,428.73,UPI,1,5,On Time
+ORD00547,2025-03-18,CUST0289,Mumbai,Clothing,T-Shirt,1,579.64,0,579.64,Digital Wallet,7,3,Late
+ORD00548,2025-10-02,CUST0197,Ahmedabad,Home & Kitchen,Desk Lamp,1,873.48,10,786.13,Debit Card,6,5,Late
+ORD00549,2025-08-31,CUST0207,Delhi,Electronics,Smart Watch,1,3459.5,10,3113.55,Debit Card,3,4,On Time
+ORD00550,2025-12-15,CUST0203,Chennai,Books,Notebook Pack,1,222.84,0,222.84,Debit Card,4,4,On Time
+ORD00551,2025-01-26,CUST0191,Bengaluru,Books,Notebook Pack,1,244.42,10,219.98,UPI,4,4,On Time
+ORD00552,2025-06-05,CUST0357,Mumbai,Home & Kitchen,Bedsheet Set,1,1197.09,15,1017.53,Cash on Delivery,5,4,On Time
+ORD00553,2025-04-27,CUST0397,Chennai,Clothing,Sneakers,3,2147.13,15,5475.18,UPI,4,4,On Time
+ORD00554,2025-08-02,CUST0227,Hyderabad,Sports,Yoga Mat,1,942.7,5,895.57,Cash on Delivery,1,5,On Time
+ORD00555,2025-07-28,CUST0192,Bengaluru,Books,Notebook Pack,1,200.41,20,160.33,Credit Card,3,5,On Time
+ORD00556,2025-03-23,CUST0207,Delhi,Electronics,Bluetooth Speaker,1,1795.86,20,1436.69,Digital Wallet,5,4,On Time
+ORD00557,2025-09-26,CUST0099,Hyderabad,Sports,Yoga Mat,4,826.43,5,3140.43,Digital Wallet,5,5,On Time
+ORD00558,2025-05-08,CUST0185,Hyderabad,Electronics,Power Bank,1,1364.18,0,1364.18,UPI,3,4,On Time
+ORD00559,2025-08-26,CUST0349,Bengaluru,Sports,Water Bottle,2,441.79,0,883.58,UPI,5,2,On Time
+ORD00560,2025-09-08,CUST0243,Chennai,Sports,Water Bottle,1,507.56,5,482.18,Credit Card,4,4,On Time
+ORD00561,2025-05-13,CUST0015,Kolkata,Books,Fiction Book,2,373.38,10,672.08,UPI,2,4,On Time
+ORD00562,2025-10-20,CUST0332,Hyderabad,Toys,Board Game,1,766.09,5,727.79,Debit Card,3,5,On Time
+ORD00563,2025-05-18,CUST0011,Bengaluru,Books,Notebook Pack,1,250.19,20,200.15,Credit Card,5,5,On Time
+ORD00564,2025-03-09,CUST0411,Bengaluru,Books,Career Guide,1,427.15,20,341.72,UPI,5,5,On Time
+ORD00565,2025-11-08,CUST0217,Kolkata,Toys,Remote Car,2,1339.28,10,2410.7,Digital Wallet,5,5,On Time
+ORD00566,2025-08-24,CUST0155,Kolkata,Home & Kitchen,Cookware Set,2,2807.57,15,4772.87,Debit Card,4,5,On Time
+ORD00567,2025-01-04,CUST0332,Pune,Sports,Dumbbell Set,1,1693.69,20,1354.95,UPI,3,4,On Time
+ORD00568,2025-02-25,CUST0142,Chennai,Beauty,Face Serum,1,652.35,10,587.12,Digital Wallet,2,4,On Time
+ORD00569,2025-05-14,CUST0077,Hyderabad,Books,Cookbook,2,476.41,5,905.18,Cash on Delivery,1,4,On Time
+ORD00570,2025-11-04,CUST0370,Bengaluru,Beauty,Hair Dryer,1,1900.36,5,1805.34,Debit Card,5,5,On Time
+ORD00571,2025-06-01,CUST0199,Bengaluru,Home & Kitchen,Desk Lamp,1,784.68,15,666.98,Debit Card,1,3,On Time
+ORD00572,2025-10-20,CUST0372,Hyderabad,Toys,Board Game,1,747.44,10,672.7,Debit Card,5,4,On Time
+ORD00573,2025-11-23,CUST0260,Pune,Toys,Puzzle Set,1,397.17,10,357.45,Digital Wallet,5,3,On Time
+ORD00574,2025-12-03,CUST0050,Ahmedabad,Sports,Running Shoes,4,2886.93,10,10392.95,UPI,6,3,Late
+ORD00575,2025-05-13,CUST0336,Mumbai,Books,Career Guide,1,558.3,10,502.47,UPI,1,4,On Time
+ORD00576,2025-04-25,CUST0404,Chennai,Books,Cookbook,1,435.72,15,370.36,Credit Card,4,4,On Time
+ORD00577,2025-10-27,CUST0241,Bengaluru,Home & Kitchen,Desk Lamp,1,957.77,0,957.77,Digital Wallet,5,5,On Time
+ORD00578,2025-10-26,CUST0100,Mumbai,Sports,Yoga Mat,1,855.14,15,726.87,Digital Wallet,4,4,On Time
+ORD00579,2025-07-15,CUST0028,Delhi,Sports,Dumbbell Set,1,1698.31,15,1443.56,UPI,3,4,On Time
+ORD00580,2025-04-13,CUST0235,Delhi,Home & Kitchen,Desk Lamp,1,779.67,20,623.74,UPI,2,5,On Time
+ORD00581,2025-04-03,CUST0171,Delhi,Toys,Building Blocks,1,953.17,15,810.19,UPI,3,4,On Time
+ORD00582,2025-01-30,CUST0108,Delhi,Electronics,Power Bank,2,1021.38,10,1838.48,Debit Card,5,3,On Time
+ORD00583,2025-03-23,CUST0315,Kolkata,Beauty,Face Serum,1,660.43,5,627.41,Debit Card,1,3,On Time
+ORD00584,2025-07-26,CUST0003,Bengaluru,Beauty,Perfume,2,1227.21,15,2086.26,Credit Card,4,4,On Time
+ORD00585,2025-07-11,CUST0098,Bengaluru,Electronics,Bluetooth Speaker,1,2021.37,20,1617.1,Debit Card,4,4,On Time
+ORD00586,2025-11-17,CUST0356,Chennai,Books,Career Guide,1,528.05,5,501.65,UPI,1,4,On Time
+ORD00587,2025-02-22,CUST0034,Bengaluru,Beauty,Hair Dryer,1,2016.2,5,1915.39,UPI,5,5,On Time
+ORD00588,2025-05-29,CUST0352,Delhi,Beauty,Hair Dryer,3,2048.79,15,5224.41,Credit Card,4,4,On Time
+ORD00589,2025-09-08,CUST0416,Kolkata,Home & Kitchen,Cookware Set,1,2292.18,5,2177.57,UPI,5,5,On Time
+ORD00590,2025-04-25,CUST0376,Bengaluru,Books,Career Guide,1,479.01,5,455.06,Debit Card,4,5,On Time
+ORD00591,2025-03-28,CUST0193,Pune,Electronics,Bluetooth Speaker,1,1777.16,0,1777.16,Digital Wallet,3,3,On Time
+ORD00592,2025-11-16,CUST0335,Bengaluru,Electronics,Wireless Earbuds,1,1904.55,0,1904.55,UPI,3,5,On Time
+ORD00593,2025-03-01,CUST0064,Pune,Beauty,Perfume,2,1436.64,15,2442.29,Credit Card,5,3,On Time
+ORD00594,2025-03-20,CUST0216,Mumbai,Clothing,T-Shirt,1,724.13,10,651.72,Debit Card,5,3,On Time
+ORD00595,2025-05-19,CUST0054,Mumbai,Sports,Running Shoes,1,2628.05,15,2233.84,UPI,4,3,On Time
+ORD00596,2025-02-24,CUST0103,Pune,Beauty,Skincare Kit,2,1511.5,20,2418.4,Digital Wallet,2,5,On Time
+ORD00597,2025-04-14,CUST0083,Bengaluru,Home & Kitchen,Desk Lamp,2,818.79,10,1473.82,Credit Card,3,5,On Time
+ORD00598,2025-04-17,CUST0121,Bengaluru,Books,Notebook Pack,1,190.83,10,171.75,UPI,4,3,On Time
+ORD00599,2025-02-15,CUST0047,Mumbai,Electronics,Power Bank,1,1320.77,5,1254.73,Debit Card,3,3,On Time
+ORD00600,2025-02-21,CUST0152,Pune,Home & Kitchen,Cookware Set,1,2525.35,15,2146.55,Credit Card,8,4,Late
+ORD00601,2025-02-21,CUST0149,Chennai,Toys,Board Game,1,791.38,0,791.38,Digital Wallet,4,5,On Time
+ORD00602,2025-06-10,CUST0389,Bengaluru,Beauty,Face Serum,2,707.67,0,1415.34,UPI,5,5,On Time
+ORD00603,2025-03-12,CUST0184,Ahmedabad,Books,Career Guide,1,571.4,10,514.26,Cash on Delivery,5,5,On Time
+ORD00604,2025-05-18,CUST0418,Chennai,Books,Fiction Book,1,325.39,10,292.85,UPI,4,5,On Time
+ORD00605,2025-07-25,CUST0198,Ahmedabad,Beauty,Perfume,1,1249.98,10,1124.98,Digital Wallet,4,4,On Time
+ORD00606,2025-11-29,CUST0068,Bengaluru,Toys,Board Game,2,685.66,0,1371.32,Cash on Delivery,4,4,On Time
+ORD00607,2025-03-23,CUST0248,Ahmedabad,Electronics,Power Bank,2,1184.88,20,1895.81,UPI,1,3,On Time
+ORD00608,2025-07-14,CUST0015,Delhi,Toys,Remote Car,1,1377.71,20,1102.17,Credit Card,4,3,On Time
+ORD00609,2025-09-07,CUST0024,Mumbai,Electronics,Power Bank,2,1190.57,15,2023.97,UPI,4,4,On Time
+ORD00610,2025-06-10,CUST0266,Mumbai,Electronics,Smart Watch,3,3316.19,10,8953.71,Credit Card,2,4,On Time
+ORD00611,2025-05-08,CUST0077,Bengaluru,Beauty,Hair Dryer,1,1695.26,15,1440.97,UPI,6,4,Late
+ORD00612,2025-03-22,CUST0085,Mumbai,Sports,Water Bottle,1,402.34,15,341.99,Digital Wallet,5,5,On Time
+ORD00613,2025-06-14,CUST0026,Hyderabad,Clothing,Sneakers,1,2525.37,10,2272.83,Credit Card,2,3,On Time
+ORD00614,2025-07-13,CUST0236,Ahmedabad,Beauty,Skincare Kit,3,1499.44,0,4498.32,Digital Wallet,5,4,On Time
+ORD00615,2025-08-18,CUST0162,Mumbai,Electronics,Power Bank,2,1042.39,15,1772.06,Cash on Delivery,2,5,On Time
+ORD00616,2025-12-01,CUST0212,Bengaluru,Electronics,Wireless Earbuds,1,2502.24,15,2126.9,Credit Card,1,4,On Time
+ORD00617,2025-01-01,CUST0317,Pune,Toys,Building Blocks,1,1001.19,20,800.95,Cash on Delivery,3,4,On Time
+ORD00618,2025-10-15,CUST0187,Bengaluru,Clothing,Jacket,2,2074.59,10,3734.26,Digital Wallet,1,5,On Time
+ORD00619,2025-08-21,CUST0367,Ahmedabad,Home & Kitchen,Desk Lamp,1,809.75,10,728.77,UPI,1,4,On Time
+ORD00620,2025-12-04,CUST0182,Pune,Clothing,T-Shirt,1,717.01,10,645.31,Credit Card,3,5,On Time
+ORD00621,2025-07-11,CUST0085,Ahmedabad,Books,Fiction Book,3,318.18,0,954.54,UPI,1,4,On Time
+ORD00622,2025-07-29,CUST0101,Hyderabad,Electronics,Bluetooth Speaker,1,1850.52,20,1480.42,UPI,4,4,On Time
+ORD00623,2025-07-21,CUST0367,Chennai,Clothing,Jacket,4,1904.77,5,7238.13,UPI,4,4,On Time
+ORD00624,2025-08-01,CUST0235,Delhi,Electronics,Wireless Earbuds,2,1976.7,15,3360.39,Cash on Delivery,7,3,Late
+ORD00625,2025-01-03,CUST0222,Ahmedabad,Sports,Yoga Mat,1,885.86,20,708.69,Cash on Delivery,2,4,On Time
+ORD00626,2025-04-01,CUST0054,Kolkata,Books,Career Guide,1,540.74,5,513.7,Debit Card,3,4,On Time
+ORD00627,2025-11-07,CUST0312,Hyderabad,Home & Kitchen,Desk Lamp,1,861.4,15,732.19,UPI,2,5,On Time
+ORD00628,2025-06-25,CUST0071,Kolkata,Home & Kitchen,Desk Lamp,1,993.97,5,944.27,Debit Card,3,4,On Time
+ORD00629,2025-09-20,CUST0324,Hyderabad,Home & Kitchen,Bedsheet Set,1,944.63,20,755.7,UPI,7,3,Late
+ORD00630,2025-11-16,CUST0345,Delhi,Books,Cookbook,1,393.4,10,354.06,Cash on Delivery,5,4,On Time
+ORD00631,2025-11-29,CUST0390,Chennai,Clothing,Sneakers,4,2072.34,0,8289.36,Debit Card,3,5,On Time
+ORD00632,2025-10-26,CUST0147,Kolkata,Sports,Water Bottle,1,484.33,20,387.46,Digital Wallet,1,5,On Time
+ORD00633,2025-09-25,CUST0075,Bengaluru,Electronics,Wireless Earbuds,2,2035.66,15,3460.62,Debit Card,1,5,On Time
+ORD00634,2025-04-13,CUST0350,Pune,Home & Kitchen,Cookware Set,2,2397.51,10,4315.52,UPI,4,3,On Time
+ORD00635,2025-02-01,CUST0386,Bengaluru,Books,Cookbook,1,361.91,5,343.81,Credit Card,3,5,On Time
+ORD00636,2025-08-20,CUST0200,Hyderabad,Electronics,Smart Watch,3,3893.05,20,9343.32,Credit Card,7,2,Late
+ORD00637,2025-12-23,CUST0199,Kolkata,Home & Kitchen,Mixer Grinder,1,3448.43,15,2931.17,Cash on Delivery,2,3,On Time
+ORD00638,2025-12-17,CUST0381,Pune,Home & Kitchen,Mixer Grinder,3,3628.6,0,10885.8,UPI,3,5,On Time
+ORD00639,2025-08-15,CUST0387,Hyderabad,Toys,Board Game,2,794.32,10,1429.78,Digital Wallet,1,4,On Time
+ORD00640,2025-04-10,CUST0350,Mumbai,Home & Kitchen,Desk Lamp,1,815.26,5,774.5,UPI,5,4,On Time
+ORD00641,2025-03-30,CUST0021,Kolkata,Books,Fiction Book,1,304.97,15,259.22,UPI,1,4,On Time
+ORD00642,2025-05-16,CUST0131,Bengaluru,Clothing,Jeans,2,1541.05,20,2465.68,UPI,6,3,Late
+ORD00643,2025-12-30,CUST0166,Bengaluru,Clothing,T-Shirt,2,680.16,5,1292.3,Digital Wallet,1,4,On Time
+ORD00644,2025-11-17,CUST0405,Chennai,Sports,Dumbbell Set,1,1464.16,15,1244.54,UPI,4,4,On Time
+ORD00645,2025-12-29,CUST0267,Mumbai,Home & Kitchen,Cookware Set,1,2534.92,5,2408.17,Digital Wallet,3,4,On Time
+ORD00646,2025-03-23,CUST0179,Hyderabad,Beauty,Perfume,4,1193.19,0,4772.76,Cash on Delivery,2,3,On Time
+ORD00647,2025-12-06,CUST0151,Hyderabad,Home & Kitchen,Bedsheet Set,1,935.49,10,841.94,Cash on Delivery,5,3,On Time
+ORD00648,2025-11-13,CUST0386,Bengaluru,Sports,Water Bottle,2,497.04,20,795.26,UPI,1,4,On Time
+ORD00649,2025-06-27,CUST0319,Hyderabad,Beauty,Skincare Kit,1,1702.06,20,1361.65,Cash on Delivery,3,4,On Time
+ORD00650,2025-12-16,CUST0198,Pune,Home & Kitchen,Desk Lamp,1,1008.52,0,1008.52,Credit Card,3,5,On Time
+ORD00651,2025-05-25,CUST0412,Ahmedabad,Electronics,Bluetooth Speaker,1,1886.95,20,1509.56,Credit Card,4,3,On Time
+ORD00652,2025-06-01,CUST0264,Mumbai,Books,Career Guide,2,450.1,10,810.18,Cash on Delivery,4,5,On Time
+ORD00653,2025-03-27,CUST0108,Hyderabad,Toys,Building Blocks,3,819.59,0,2458.77,Digital Wallet,5,3,On Time
+ORD00654,2025-08-06,CUST0276,Kolkata,Toys,Building Blocks,1,1011.11,5,960.55,Debit Card,3,4,On Time
+ORD00655,2025-02-06,CUST0236,Chennai,Books,Career Guide,1,501.33,0,501.33,UPI,5,4,On Time
+ORD00656,2025-02-07,CUST0286,Mumbai,Electronics,Smart Watch,2,4024.82,10,7244.68,Debit Card,3,5,On Time
+ORD00657,2025-04-27,CUST0231,Kolkata,Home & Kitchen,Desk Lamp,3,952.54,15,2428.98,Credit Card,5,4,On Time
+ORD00658,2025-01-09,CUST0004,Mumbai,Beauty,Face Serum,1,819.09,20,655.27,Digital Wallet,3,3,On Time
+ORD00659,2025-10-27,CUST0258,Mumbai,Electronics,Wireless Earbuds,1,2515.83,10,2264.25,UPI,4,5,On Time
+ORD00660,2025-12-18,CUST0392,Ahmedabad,Home & Kitchen,Mixer Grinder,2,3259.59,10,5867.26,Credit Card,4,5,On Time
+ORD00661,2025-12-05,CUST0274,Hyderabad,Electronics,Power Bank,1,1078.69,5,1024.76,UPI,5,5,On Time
+ORD00662,2025-07-20,CUST0153,Chennai,Toys,Remote Car,1,1286.34,5,1222.02,Cash on Delivery,1,4,On Time
+ORD00663,2025-01-06,CUST0022,Bengaluru,Sports,Running Shoes,2,3066.39,0,6132.78,Debit Card,5,4,On Time
+ORD00664,2025-07-21,CUST0108,Chennai,Sports,Yoga Mat,1,851.22,10,766.1,UPI,5,4,On Time
+ORD00665,2025-11-27,CUST0095,Hyderabad,Toys,Board Game,1,872.0,5,828.4,Debit Card,1,5,On Time
+ORD00666,2025-05-10,CUST0344,Bengaluru,Clothing,T-Shirt,1,721.23,5,685.17,Digital Wallet,3,3,On Time
+ORD00667,2025-10-09,CUST0344,Mumbai,Beauty,Face Serum,1,833.57,10,750.21,UPI,6,4,Late
+ORD00668,2025-04-12,CUST0183,Delhi,Books,Notebook Pack,1,228.24,10,205.42,Debit Card,6,4,Late
+ORD00669,2025-05-01,CUST0036,Hyderabad,Electronics,Bluetooth Speaker,3,1536.56,20,3687.74,UPI,3,4,On Time
+ORD00670,2025-08-19,CUST0079,Chennai,Home & Kitchen,Bedsheet Set,1,1029.92,20,823.94,Digital Wallet,2,3,On Time
+ORD00671,2025-08-08,CUST0127,Hyderabad,Clothing,T-Shirt,1,617.64,10,555.88,Debit Card,3,5,On Time
+ORD00672,2025-11-25,CUST0069,Chennai,Beauty,Hair Dryer,1,2061.74,10,1855.57,Digital Wallet,3,3,On Time
+ORD00673,2025-08-25,CUST0250,Mumbai,Beauty,Hair Dryer,2,1804.5,10,3248.1,UPI,3,4,On Time
+ORD00674,2025-11-07,CUST0276,Hyderabad,Electronics,Bluetooth Speaker,3,1876.54,5,5348.14,UPI,6,5,Late
+ORD00675,2025-11-17,CUST0260,Bengaluru,Electronics,Wireless Earbuds,1,2146.1,0,2146.1,Digital Wallet,3,4,On Time
+ORD00676,2025-10-24,CUST0283,Pune,Beauty,Skincare Kit,1,1492.63,0,1492.63,Credit Card,4,4,On Time
+ORD00677,2025-10-04,CUST0201,Hyderabad,Beauty,Skincare Kit,1,1608.98,10,1448.08,Cash on Delivery,3,3,On Time
+ORD00678,2025-10-29,CUST0238,Mumbai,Books,Cookbook,2,445.77,5,846.96,Credit Card,1,3,On Time
+ORD00679,2025-09-15,CUST0351,Delhi,Electronics,Smart Watch,1,3531.27,20,2825.02,Digital Wallet,4,3,On Time
+ORD00680,2025-03-13,CUST0290,Delhi,Beauty,Skincare Kit,1,1497.98,5,1423.08,Debit Card,4,4,On Time
+ORD00681,2025-09-05,CUST0390,Ahmedabad,Home & Kitchen,Mixer Grinder,1,2793.9,5,2654.2,UPI,3,4,On Time
+ORD00682,2025-05-16,CUST0343,Hyderabad,Home & Kitchen,Cookware Set,1,2696.45,0,2696.45,Credit Card,1,5,On Time
+ORD00683,2025-07-04,CUST0024,Bengaluru,Beauty,Perfume,1,1481.36,15,1259.16,Cash on Delivery,5,3,On Time
+ORD00684,2025-06-15,CUST0297,Delhi,Electronics,Bluetooth Speaker,2,1859.4,10,3346.92,Credit Card,2,3,On Time
+ORD00685,2025-07-13,CUST0129,Kolkata,Home & Kitchen,Mixer Grinder,1,3551.45,20,2841.16,Cash on Delivery,5,4,On Time
+ORD00686,2025-04-25,CUST0419,Chennai,Sports,Water Bottle,1,461.82,10,415.64,Credit Card,5,5,On Time
+ORD00687,2025-09-04,CUST0072,Ahmedabad,Sports,Yoga Mat,1,726.43,20,581.14,UPI,1,5,On Time
+ORD00688,2025-02-09,CUST0077,Delhi,Sports,Dumbbell Set,1,1933.37,5,1836.7,UPI,6,4,Late
+ORD00689,2025-11-05,CUST0213,Chennai,Books,Fiction Book,1,368.11,5,349.7,Debit Card,4,4,On Time
+ORD00690,2025-09-04,CUST0108,Delhi,Books,Notebook Pack,1,236.39,15,200.93,Debit Card,3,5,On Time
+ORD00691,2025-07-30,CUST0066,Delhi,Electronics,Smart Watch,1,3725.22,0,3725.22,UPI,7,5,Late
+ORD00692,2025-09-20,CUST0086,Pune,Electronics,Smart Watch,1,3505.91,0,3505.91,Cash on Delivery,3,4,On Time
+ORD00693,2025-09-22,CUST0044,Hyderabad,Beauty,Face Serum,1,834.93,10,751.44,Credit Card,2,4,On Time
+ORD00694,2025-08-30,CUST0113,Kolkata,Toys,Puzzle Set,1,369.71,5,351.22,Debit Card,4,4,On Time
+ORD00695,2025-10-26,CUST0338,Pune,Toys,Board Game,2,825.62,20,1320.99,UPI,3,4,On Time
+ORD00696,2025-12-18,CUST0303,Mumbai,Home & Kitchen,Desk Lamp,3,991.39,20,2379.34,UPI,5,4,On Time
+ORD00697,2025-07-17,CUST0104,Kolkata,Clothing,T-Shirt,3,658.63,0,1975.89,Digital Wallet,5,3,On Time
+ORD00698,2025-11-07,CUST0315,Bengaluru,Electronics,Smart Watch,2,4071.23,15,6921.09,Digital Wallet,2,4,On Time
+ORD00699,2025-09-30,CUST0247,Delhi,Sports,Yoga Mat,1,957.3,0,957.3,Cash on Delivery,6,5,Late
+ORD00700,2025-10-04,CUST0268,Kolkata,Toys,Building Blocks,1,912.51,15,775.63,Credit Card,4,5,On Time
+ORD00701,2025-01-23,CUST0411,Ahmedabad,Books,Notebook Pack,2,216.99,5,412.28,Digital Wallet,1,5,On Time
+ORD00702,2025-07-15,CUST0069,Pune,Home & Kitchen,Mixer Grinder,2,3130.5,15,5321.85,Credit Card,7,3,Late
+ORD00703,2025-04-30,CUST0307,Kolkata,Toys,Building Blocks,3,825.74,10,2229.5,UPI,3,5,On Time
+ORD00704,2025-01-03,CUST0268,Mumbai,Books,Fiction Book,1,299.8,20,239.84,Credit Card,4,3,On Time
+ORD00705,2025-07-12,CUST0210,Chennai,Books,Career Guide,1,498.66,10,448.79,UPI,3,5,On Time
+ORD00706,2025-08-07,CUST0275,Kolkata,Books,Cookbook,2,389.79,10,701.62,Debit Card,3,4,On Time
+ORD00707,2025-11-10,CUST0212,Ahmedabad,Home & Kitchen,Desk Lamp,1,815.12,5,774.36,UPI,5,4,On Time
+ORD00708,2025-10-14,CUST0158,Chennai,Sports,Water Bottle,2,474.99,10,854.98,Digital Wallet,3,4,On Time
+ORD00709,2025-07-23,CUST0383,Hyderabad,Books,Career Guide,1,462.49,0,462.49,Credit Card,9,4,Late
+ORD00710,2025-12-25,CUST0261,Kolkata,Clothing,T-Shirt,1,621.49,5,590.42,Digital Wallet,5,5,On Time
+ORD00711,2025-10-09,CUST0200,Bengaluru,Sports,Yoga Mat,1,955.52,5,907.74,Digital Wallet,3,4,On Time
+ORD00712,2025-03-16,CUST0033,Pune,Beauty,Perfume,1,1302.2,0,1302.2,UPI,3,3,On Time
+ORD00713,2025-02-10,CUST0206,Pune,Sports,Yoga Mat,1,850.8,15,723.18,Debit Card,4,4,On Time
+ORD00714,2025-11-02,CUST0225,Bengaluru,Electronics,Smart Watch,2,4185.22,15,7114.87,UPI,4,5,On Time
+ORD00715,2025-12-03,CUST0018,Hyderabad,Toys,Remote Car,1,1549.75,5,1472.26,Debit Card,5,3,On Time
+ORD00716,2025-12-12,CUST0336,Bengaluru,Electronics,Bluetooth Speaker,1,1904.73,5,1809.49,Cash on Delivery,3,4,On Time
+ORD00717,2025-02-14,CUST0343,Kolkata,Home & Kitchen,Desk Lamp,1,765.54,10,688.99,Credit Card,5,5,On Time
+ORD00718,2025-04-13,CUST0047,Pune,Sports,Yoga Mat,1,763.65,0,763.65,Debit Card,2,3,On Time
+ORD00719,2025-10-14,CUST0418,Pune,Sports,Dumbbell Set,1,1558.4,10,1402.56,UPI,8,4,Late
+ORD00720,2025-04-10,CUST0003,Pune,Beauty,Perfume,1,1127.52,20,902.02,UPI,1,4,On Time
+ORD00721,2025-09-17,CUST0151,Chennai,Electronics,Wireless Earbuds,1,2503.51,20,2002.81,Cash on Delivery,5,5,On Time
+ORD00722,2025-09-20,CUST0194,Ahmedabad,Home & Kitchen,Bedsheet Set,1,1076.55,15,915.07,Digital Wallet,7,4,Late
+ORD00723,2025-06-23,CUST0301,Bengaluru,Toys,Puzzle Set,2,360.6,15,613.02,Credit Card,1,4,On Time
+ORD00724,2025-05-13,CUST0347,Hyderabad,Electronics,Power Bank,2,1247.31,5,2369.89,Digital Wallet,2,4,On Time
+ORD00725,2025-07-31,CUST0128,Pune,Home & Kitchen,Mixer Grinder,1,2832.52,10,2549.27,UPI,2,4,On Time
+ORD00726,2025-12-11,CUST0284,Delhi,Books,Cookbook,2,382.99,0,765.98,Credit Card,5,4,On Time
+ORD00727,2025-07-01,CUST0383,Hyderabad,Clothing,Sneakers,1,2405.62,5,2285.34,Credit Card,3,4,On Time
+ORD00728,2025-04-13,CUST0106,Hyderabad,Clothing,Jeans,2,1219.0,10,2194.2,UPI,8,2,Late
+ORD00729,2025-05-08,CUST0399,Mumbai,Toys,Remote Car,1,1584.88,5,1505.64,UPI,4,5,On Time
+ORD00730,2025-02-10,CUST0004,Bengaluru,Books,Notebook Pack,2,241.21,20,385.94,Digital Wallet,4,5,On Time
+ORD00731,2025-07-10,CUST0295,Pune,Sports,Dumbbell Set,1,1848.69,15,1571.39,Credit Card,1,4,On Time
+ORD00732,2025-09-19,CUST0385,Delhi,Home & Kitchen,Desk Lamp,2,1003.29,5,1906.25,UPI,2,4,On Time
+ORD00733,2025-08-05,CUST0178,Kolkata,Beauty,Face Serum,1,818.3,20,654.64,Digital Wallet,4,4,On Time
+ORD00734,2025-03-31,CUST0236,Chennai,Beauty,Face Serum,1,834.9,20,667.92,Debit Card,5,2,On Time
+ORD00735,2025-01-07,CUST0298,Mumbai,Books,Career Guide,3,434.98,15,1109.2,UPI,3,4,On Time
+ORD00736,2025-11-10,CUST0281,Pune,Toys,Remote Car,1,1636.72,5,1554.88,UPI,1,5,On Time
+ORD00737,2025-08-30,CUST0095,Ahmedabad,Sports,Dumbbell Set,1,1623.77,10,1461.39,Credit Card,3,4,On Time
+ORD00738,2025-08-03,CUST0206,Pune,Books,Cookbook,1,415.49,10,373.94,Credit Card,5,5,On Time
+ORD00739,2025-10-20,CUST0370,Pune,Clothing,Jeans,2,1193.51,0,2387.02,Digital Wallet,5,3,On Time
+ORD00740,2025-10-12,CUST0075,Delhi,Beauty,Perfume,1,1107.07,5,1051.72,Credit Card,5,5,On Time
+ORD00741,2025-01-05,CUST0069,Chennai,Clothing,Jacket,1,1826.87,15,1552.84,Digital Wallet,4,5,On Time
+ORD00742,2025-06-03,CUST0051,Delhi,Home & Kitchen,Mixer Grinder,2,3441.68,15,5850.86,UPI,4,5,On Time
+ORD00743,2025-05-11,CUST0382,Chennai,Beauty,Face Serum,1,788.51,15,670.23,UPI,6,4,Late
+ORD00744,2025-07-04,CUST0011,Kolkata,Sports,Dumbbell Set,1,1544.44,10,1390.0,UPI,4,4,On Time
+ORD00745,2025-12-14,CUST0295,Delhi,Sports,Running Shoes,3,3017.32,20,7241.57,Cash on Delivery,7,4,Late
+ORD00746,2025-05-26,CUST0250,Ahmedabad,Home & Kitchen,Bedsheet Set,3,1126.01,20,2702.42,Cash on Delivery,2,4,On Time
+ORD00747,2025-07-15,CUST0324,Delhi,Sports,Dumbbell Set,1,1810.36,15,1538.81,Digital Wallet,2,4,On Time
+ORD00748,2025-11-24,CUST0324,Kolkata,Toys,Remote Car,1,1383.68,15,1176.13,Digital Wallet,3,3,On Time
+ORD00749,2025-02-06,CUST0117,Chennai,Electronics,Smart Watch,3,3808.05,10,10281.74,UPI,2,5,On Time
+ORD00750,2025-05-30,CUST0331,Kolkata,Books,Cookbook,2,440.1,20,704.16,UPI,3,5,On Time
+ORD00751,2025-08-16,CUST0267,Ahmedabad,Toys,Remote Car,2,1393.83,20,2230.13,Credit Card,4,5,On Time
+ORD00752,2025-04-05,CUST0373,Hyderabad,Toys,Building Blocks,1,884.31,5,840.09,Debit Card,5,3,On Time
+ORD00753,2025-12-25,CUST0086,Kolkata,Books,Fiction Book,1,360.01,5,342.01,UPI,5,3,On Time
+ORD00754,2025-02-02,CUST0395,Kolkata,Beauty,Face Serum,2,812.56,0,1625.12,Credit Card,3,5,On Time
+ORD00755,2025-02-12,CUST0080,Mumbai,Electronics,Bluetooth Speaker,1,1907.43,20,1525.94,Debit Card,2,3,On Time
+ORD00756,2025-07-19,CUST0378,Pune,Home & Kitchen,Cookware Set,1,2412.47,5,2291.85,Credit Card,4,3,On Time
+ORD00757,2025-03-06,CUST0018,Chennai,Clothing,Jeans,1,1470.08,0,1470.08,Digital Wallet,5,4,On Time
+ORD00758,2025-06-16,CUST0277,Pune,Toys,Puzzle Set,3,379.03,15,966.53,Credit Card,4,4,On Time
+ORD00759,2025-03-11,CUST0306,Ahmedabad,Books,Career Guide,1,511.51,20,409.21,Debit Card,5,5,On Time
+ORD00760,2025-11-22,CUST0328,Pune,Sports,Water Bottle,2,517.18,20,827.49,Cash on Delivery,2,4,On Time
+ORD00761,2025-09-04,CUST0227,Pune,Sports,Running Shoes,1,2682.76,0,2682.76,Credit Card,4,5,On Time
+ORD00762,2025-05-14,CUST0001,Delhi,Clothing,Sneakers,1,2511.13,0,2511.13,Credit Card,5,5,On Time
+ORD00763,2025-08-29,CUST0387,Ahmedabad,Sports,Yoga Mat,2,732.43,15,1245.13,UPI,4,5,On Time
+ORD00764,2025-08-09,CUST0119,Bengaluru,Toys,Remote Car,1,1556.08,20,1244.86,Credit Card,4,5,On Time
+ORD00765,2025-04-07,CUST0128,Delhi,Beauty,Perfume,1,1491.36,15,1267.66,Debit Card,3,5,On Time
+ORD00766,2025-11-27,CUST0135,Mumbai,Beauty,Perfume,2,1256.8,5,2387.92,Credit Card,5,3,On Time
+ORD00767,2025-05-03,CUST0333,Pune,Sports,Dumbbell Set,3,1918.86,10,5180.92,Credit Card,4,2,On Time
+ORD00768,2025-02-05,CUST0057,Ahmedabad,Clothing,Jeans,1,1608.17,10,1447.35,Debit Card,5,5,On Time
+ORD00769,2025-05-20,CUST0165,Bengaluru,Books,Notebook Pack,1,190.52,5,180.99,UPI,7,3,Late
+ORD00770,2025-10-01,CUST0145,Pune,Electronics,Smart Watch,2,3655.36,0,7310.72,UPI,7,4,Late
+ORD00771,2025-08-13,CUST0047,Delhi,Books,Fiction Book,2,365.61,5,694.66,UPI,2,4,On Time
+ORD00772,2025-04-22,CUST0403,Ahmedabad,Home & Kitchen,Desk Lamp,1,926.81,10,834.13,Cash on Delivery,5,3,On Time
+ORD00773,2025-08-26,CUST0042,Delhi,Books,Fiction Book,1,367.61,10,330.85,UPI,3,4,On Time
+ORD00774,2025-07-20,CUST0099,Pune,Electronics,Power Bank,1,1300.48,5,1235.46,Digital Wallet,6,5,Late
+ORD00775,2025-01-07,CUST0395,Ahmedabad,Electronics,Smart Watch,2,4145.2,15,7046.84,UPI,4,5,On Time
+ORD00776,2025-01-18,CUST0267,Hyderabad,Clothing,Jacket,1,2038.19,0,2038.19,Credit Card,4,3,On Time
+ORD00777,2025-12-15,CUST0323,Bengaluru,Home & Kitchen,Bedsheet Set,1,1239.03,5,1177.08,Digital Wallet,7,5,Late
+ORD00778,2025-10-09,CUST0247,Pune,Sports,Yoga Mat,1,735.76,10,662.18,UPI,4,4,On Time
+ORD00779,2025-01-27,CUST0121,Kolkata,Toys,Board Game,1,825.64,0,825.64,UPI,2,5,On Time
+ORD00780,2025-03-27,CUST0062,Kolkata,Toys,Remote Car,2,1673.74,20,2677.98,Digital Wallet,5,3,On Time
+ORD00781,2025-01-05,CUST0080,Chennai,Electronics,Power Bank,1,1308.95,20,1047.16,Digital Wallet,4,5,On Time
+ORD00782,2025-05-08,CUST0352,Chennai,Clothing,Jacket,4,2077.96,0,8311.84,Cash on Delivery,3,4,On Time
+ORD00783,2025-11-17,CUST0331,Delhi,Electronics,Wireless Earbuds,4,2409.2,10,8673.12,Debit Card,3,4,On Time
+ORD00784,2025-02-24,CUST0163,Chennai,Clothing,Jacket,1,1917.8,5,1821.91,Digital Wallet,3,3,On Time
+ORD00785,2025-08-13,CUST0353,Kolkata,Books,Career Guide,1,440.15,0,440.15,Credit Card,3,4,On Time
+ORD00786,2025-03-10,CUST0362,Ahmedabad,Home & Kitchen,Mixer Grinder,4,3448.92,15,11726.33,Credit Card,4,4,On Time
+ORD00787,2025-10-05,CUST0291,Delhi,Books,Notebook Pack,1,239.69,5,227.71,Credit Card,2,3,On Time
+ORD00788,2025-06-15,CUST0307,Delhi,Books,Notebook Pack,1,195.56,10,176.0,UPI,2,3,On Time
+ORD00789,2025-03-21,CUST0278,Chennai,Beauty,Hair Dryer,2,1650.66,10,2971.19,Credit Card,5,4,On Time
+ORD00790,2025-11-23,CUST0010,Chennai,Sports,Water Bottle,1,428.76,5,407.32,Digital Wallet,4,3,On Time
+ORD00791,2025-05-03,CUST0420,Kolkata,Home & Kitchen,Mixer Grinder,1,3260.87,20,2608.7,UPI,3,4,On Time
+ORD00792,2025-12-16,CUST0145,Chennai,Beauty,Skincare Kit,1,1602.64,20,1282.11,Credit Card,4,3,On Time
+ORD00793,2025-06-14,CUST0338,Mumbai,Electronics,Wireless Earbuds,1,2191.97,20,1753.58,UPI,4,3,On Time
+ORD00794,2025-03-08,CUST0055,Ahmedabad,Clothing,T-Shirt,1,712.86,5,677.22,UPI,4,4,On Time
+ORD00795,2025-01-17,CUST0270,Pune,Sports,Water Bottle,1,480.38,15,408.32,UPI,7,4,Late
+ORD00796,2025-04-24,CUST0107,Ahmedabad,Sports,Yoga Mat,2,942.36,0,1884.72,Cash on Delivery,4,3,On Time
+ORD00797,2025-02-10,CUST0286,Kolkata,Beauty,Face Serum,2,860.13,10,1548.23,Digital Wallet,3,5,On Time
+ORD00798,2025-12-29,CUST0021,Mumbai,Electronics,Bluetooth Speaker,1,1794.27,20,1435.42,Digital Wallet,4,5,On Time
+ORD00799,2025-02-09,CUST0372,Hyderabad,Clothing,T-Shirt,1,715.95,0,715.95,Credit Card,5,4,On Time
+ORD00800,2025-04-08,CUST0321,Delhi,Clothing,Jeans,1,1327.86,20,1062.29,Credit Card,6,4,Late
+ORD00801,2025-10-13,CUST0184,Ahmedabad,Beauty,Face Serum,1,681.69,20,545.35,Debit Card,7,5,Late
+ORD00802,2025-08-07,CUST0282,Kolkata,Electronics,Smart Watch,1,3965.01,5,3766.76,Credit Card,4,3,On Time
+ORD00803,2025-12-03,CUST0162,Chennai,Clothing,Jacket,1,2201.85,10,1981.66,Digital Wallet,4,3,On Time
+ORD00804,2025-07-31,CUST0312,Hyderabad,Toys,Puzzle Set,1,373.44,10,336.1,Debit Card,3,4,On Time
+ORD00805,2025-04-20,CUST0232,Ahmedabad,Beauty,Hair Dryer,2,1777.85,10,3200.13,Cash on Delivery,2,4,On Time
+ORD00806,2025-01-01,CUST0306,Bengaluru,Books,Fiction Book,1,381.26,10,343.13,Credit Card,2,4,On Time
+ORD00807,2025-06-04,CUST0110,Chennai,Electronics,Bluetooth Speaker,1,1986.37,5,1887.05,UPI,3,4,On Time
+ORD00808,2025-12-20,CUST0262,Delhi,Toys,Remote Car,2,1374.23,20,2198.77,UPI,4,4,On Time
+ORD00809,2025-08-24,CUST0136,Chennai,Home & Kitchen,Cookware Set,1,2415.33,5,2294.56,Cash on Delivery,5,5,On Time
+ORD00810,2025-05-08,CUST0048,Kolkata,Clothing,Sneakers,2,2149.47,10,3869.05,Debit Card,1,4,On Time
+ORD00811,2025-04-22,CUST0406,Ahmedabad,Books,Fiction Book,1,348.54,10,313.69,UPI,2,4,On Time
+ORD00812,2025-12-20,CUST0329,Pune,Books,Fiction Book,1,392.89,20,314.31,UPI,1,2,On Time
+ORD00813,2025-10-23,CUST0395,Chennai,Beauty,Face Serum,2,672.26,0,1344.52,Credit Card,1,4,On Time
+ORD00814,2025-08-11,CUST0383,Bengaluru,Beauty,Face Serum,1,862.4,5,819.28,Debit Card,3,5,On Time
+ORD00815,2025-11-20,CUST0269,Bengaluru,Beauty,Face Serum,2,675.91,10,1216.64,UPI,4,2,On Time
+ORD00816,2025-10-17,CUST0358,Hyderabad,Clothing,Sneakers,1,2695.64,20,2156.51,UPI,5,5,On Time
+ORD00817,2025-12-11,CUST0386,Mumbai,Books,Notebook Pack,1,189.3,15,160.91,UPI,1,5,On Time
+ORD00818,2025-05-29,CUST0068,Chennai,Toys,Puzzle Set,2,359.28,5,682.63,UPI,4,4,On Time
+ORD00819,2025-10-20,CUST0205,Pune,Books,Fiction Book,1,302.71,20,242.17,UPI,3,4,On Time
+ORD00820,2025-09-14,CUST0247,Hyderabad,Beauty,Skincare Kit,1,1494.9,5,1420.15,Credit Card,3,3,On Time
+ORD00821,2025-11-30,CUST0316,Hyderabad,Sports,Running Shoes,2,2709.36,20,4334.98,UPI,3,4,On Time
+ORD00822,2025-05-17,CUST0351,Mumbai,Toys,Puzzle Set,2,368.43,10,663.17,UPI,5,5,On Time
+ORD00823,2025-07-31,CUST0098,Chennai,Beauty,Hair Dryer,3,1835.77,10,4956.58,Credit Card,4,5,On Time
+ORD00824,2025-12-02,CUST0180,Ahmedabad,Electronics,Bluetooth Speaker,2,1656.59,5,3147.52,Debit Card,3,4,On Time
+ORD00825,2025-08-14,CUST0351,Chennai,Electronics,Smart Watch,3,3991.37,5,11375.4,UPI,4,4,On Time
+ORD00826,2025-02-13,CUST0318,Delhi,Electronics,Wireless Earbuds,1,2317.81,5,2201.92,Digital Wallet,5,4,On Time
+ORD00827,2025-05-28,CUST0157,Ahmedabad,Electronics,Bluetooth Speaker,3,2007.82,0,6023.46,Credit Card,2,5,On Time
+ORD00828,2025-06-19,CUST0280,Pune,Clothing,Jeans,1,1594.61,5,1514.88,Credit Card,5,5,On Time
+ORD00829,2025-11-15,CUST0193,Bengaluru,Books,Career Guide,4,471.78,0,1887.12,UPI,3,4,On Time
+ORD00830,2025-01-31,CUST0139,Bengaluru,Home & Kitchen,Cookware Set,1,2413.62,20,1930.9,Credit Card,5,4,On Time
+ORD00831,2025-01-05,CUST0340,Chennai,Electronics,Power Bank,3,1086.86,10,2934.52,Digital Wallet,5,4,On Time
+ORD00832,2025-01-10,CUST0195,Mumbai,Home & Kitchen,Desk Lamp,1,789.94,5,750.44,Cash on Delivery,4,3,On Time
+ORD00833,2025-09-06,CUST0102,Ahmedabad,Toys,Building Blocks,1,1083.4,5,1029.23,Debit Card,4,2,On Time
+ORD00834,2025-12-31,CUST0272,Pune,Electronics,Wireless Earbuds,1,2180.83,5,2071.79,UPI,6,4,Late
+ORD00835,2025-07-21,CUST0178,Chennai,Books,Career Guide,2,511.68,0,1023.36,Credit Card,2,5,On Time
+ORD00836,2025-06-04,CUST0321,Pune,Clothing,Sneakers,1,2676.9,0,2676.9,Digital Wallet,6,3,Late
+ORD00837,2025-01-16,CUST0078,Chennai,Sports,Dumbbell Set,1,1542.21,5,1465.1,Cash on Delivery,3,3,On Time
+ORD00838,2025-12-03,CUST0267,Hyderabad,Clothing,T-Shirt,1,714.54,15,607.36,Credit Card,4,4,On Time
+ORD00839,2025-10-21,CUST0310,Chennai,Clothing,Jacket,1,1966.41,10,1769.77,Credit Card,1,4,On Time
+ORD00840,2025-03-09,CUST0278,Hyderabad,Clothing,Jeans,1,1372.21,20,1097.77,Digital Wallet,5,4,On Time
+ORD00841,2025-06-08,CUST0395,Delhi,Books,Career Guide,1,534.95,15,454.71,Debit Card,5,4,On Time
+ORD00842,2025-10-17,CUST0286,Mumbai,Clothing,Sneakers,2,2447.96,0,4895.92,UPI,5,4,On Time
+ORD00843,2025-03-16,CUST0212,Kolkata,Books,Fiction Book,1,331.81,10,298.63,UPI,3,4,On Time
+ORD00844,2025-11-23,CUST0399,Hyderabad,Books,Cookbook,1,415.46,5,394.69,UPI,6,4,Late
+ORD00845,2025-04-05,CUST0291,Hyderabad,Electronics,Bluetooth Speaker,1,1885.71,20,1508.57,Debit Card,2,4,On Time
+ORD00846,2025-04-29,CUST0041,Ahmedabad,Books,Fiction Book,1,357.14,10,321.43,UPI,4,4,On Time
+ORD00847,2025-11-06,CUST0199,Ahmedabad,Beauty,Hair Dryer,2,2175.63,5,4133.7,Credit Card,1,3,On Time
+ORD00848,2025-03-25,CUST0210,Bengaluru,Clothing,Jeans,1,1212.16,0,1212.16,Cash on Delivery,3,5,On Time
+ORD00849,2025-07-31,CUST0034,Delhi,Clothing,Jeans,1,1447.87,5,1375.48,Cash on Delivery,5,3,On Time
+ORD00850,2025-08-13,CUST0235,Hyderabad,Toys,Puzzle Set,1,438.83,10,394.95,Credit Card,4,5,On Time
+ORD00851,2025-01-22,CUST0202,Bengaluru,Sports,Water Bottle,1,431.45,10,388.31,Credit Card,3,5,On Time
+ORD00852,2025-08-20,CUST0266,Kolkata,Beauty,Face Serum,1,656.55,5,623.72,Cash on Delivery,1,2,On Time
+ORD00853,2025-01-21,CUST0392,Bengaluru,Sports,Water Bottle,2,412.37,20,659.79,UPI,6,3,Late
+ORD00854,2025-08-14,CUST0237,Delhi,Beauty,Hair Dryer,2,1834.23,10,3301.61,Credit Card,1,4,On Time
+ORD00855,2025-11-10,CUST0331,Ahmedabad,Electronics,Smart Watch,3,3365.25,15,8581.39,UPI,4,4,On Time
+ORD00856,2025-09-14,CUST0357,Delhi,Electronics,Smart Watch,1,3267.23,20,2613.78,Credit Card,1,4,On Time
+ORD00857,2025-06-15,CUST0233,Hyderabad,Beauty,Face Serum,1,785.19,5,745.93,Cash on Delivery,4,4,On Time
+ORD00858,2025-02-16,CUST0368,Mumbai,Home & Kitchen,Bedsheet Set,2,957.59,5,1819.42,UPI,2,4,On Time
+ORD00859,2025-12-28,CUST0269,Kolkata,Beauty,Hair Dryer,1,2149.93,0,2149.93,Debit Card,3,4,On Time
+ORD00860,2025-09-19,CUST0282,Kolkata,Sports,Running Shoes,1,2842.56,15,2416.18,UPI,6,4,Late
+ORD00861,2025-03-29,CUST0075,Delhi,Home & Kitchen,Cookware Set,2,2687.23,5,5105.74,Digital Wallet,1,4,On Time
+ORD00862,2025-01-27,CUST0374,Ahmedabad,Beauty,Hair Dryer,1,1817.29,10,1635.56,UPI,7,3,Late
+ORD00863,2025-04-03,CUST0002,Pune,Electronics,Smart Watch,2,3309.92,5,6288.85,UPI,2,4,On Time
+ORD00864,2025-09-12,CUST0414,Bengaluru,Toys,Puzzle Set,1,439.28,20,351.42,Debit Card,4,4,On Time
+ORD00865,2025-09-10,CUST0338,Ahmedabad,Clothing,Jeans,1,1559.32,20,1247.46,Credit Card,1,4,On Time
+ORD00866,2025-08-15,CUST0281,Pune,Electronics,Wireless Earbuds,1,2352.78,5,2235.14,Debit Card,4,5,On Time
+ORD00867,2025-10-13,CUST0095,Delhi,Toys,Board Game,1,776.77,0,776.77,UPI,4,5,On Time
+ORD00868,2025-06-28,CUST0342,Pune,Electronics,Smart Watch,2,3718.44,0,7436.88,UPI,5,5,On Time
+ORD00869,2025-02-14,CUST0092,Delhi,Electronics,Wireless Earbuds,1,2419.73,15,2056.77,Debit Card,6,4,Late
+ORD00870,2025-11-09,CUST0384,Chennai,Books,Career Guide,1,481.86,15,409.58,Cash on Delivery,3,4,On Time
+ORD00871,2025-02-17,CUST0189,Kolkata,Toys,Remote Car,2,1492.81,10,2687.06,Digital Wallet,1,4,On Time
+ORD00872,2025-08-07,CUST0242,Delhi,Toys,Building Blocks,1,900.19,10,810.17,UPI,4,4,On Time
+ORD00873,2025-05-21,CUST0108,Hyderabad,Home & Kitchen,Desk Lamp,2,858.37,20,1373.39,Debit Card,5,5,On Time
+ORD00874,2025-02-25,CUST0371,Pune,Sports,Yoga Mat,3,824.55,15,2102.6,Credit Card,2,5,On Time
+ORD00875,2025-06-12,CUST0315,Ahmedabad,Home & Kitchen,Bedsheet Set,4,943.5,5,3585.3,Credit Card,7,4,Late
+ORD00876,2025-11-20,CUST0313,Hyderabad,Beauty,Perfume,2,1151.95,5,2188.7,Debit Card,2,5,On Time
+ORD00877,2025-04-10,CUST0239,Mumbai,Electronics,Wireless Earbuds,1,2230.66,0,2230.66,Debit Card,2,4,On Time
+ORD00878,2025-04-17,CUST0024,Chennai,Toys,Puzzle Set,1,390.18,15,331.65,Credit Card,4,4,On Time
+ORD00879,2025-11-23,CUST0354,Pune,Clothing,T-Shirt,1,629.16,5,597.7,UPI,5,5,On Time
+ORD00880,2025-02-04,CUST0282,Chennai,Home & Kitchen,Bedsheet Set,1,1012.16,20,809.73,Digital Wallet,5,4,On Time
+ORD00881,2025-02-28,CUST0203,Bengaluru,Books,Cookbook,3,409.87,10,1106.65,Digital Wallet,1,5,On Time
+ORD00882,2025-04-10,CUST0243,Bengaluru,Home & Kitchen,Bedsheet Set,1,1127.47,15,958.35,Debit Card,4,4,On Time
+ORD00883,2025-09-04,CUST0172,Ahmedabad,Clothing,Jacket,1,2035.54,20,1628.43,Digital Wallet,4,4,On Time
+ORD00884,2025-07-31,CUST0154,Chennai,Books,Fiction Book,1,371.99,20,297.59,Credit Card,5,4,On Time
+ORD00885,2025-01-10,CUST0034,Delhi,Clothing,Sneakers,1,2435.91,10,2192.32,UPI,4,4,On Time
+ORD00886,2025-01-16,CUST0085,Kolkata,Home & Kitchen,Desk Lamp,2,982.53,20,1572.05,UPI,2,4,On Time
+ORD00887,2025-03-01,CUST0364,Bengaluru,Toys,Remote Car,2,1693.68,10,3048.62,UPI,4,3,On Time
+ORD00888,2025-02-14,CUST0232,Pune,Beauty,Skincare Kit,1,1777.93,10,1600.14,UPI,1,4,On Time
+ORD00889,2025-06-04,CUST0402,Bengaluru,Clothing,T-Shirt,1,629.44,10,566.5,Digital Wallet,2,4,On Time
+ORD00890,2025-02-17,CUST0257,Delhi,Beauty,Face Serum,1,818.72,15,695.91,UPI,3,4,On Time
+ORD00891,2025-09-05,CUST0074,Mumbai,Books,Cookbook,1,390.79,10,351.71,Digital Wallet,2,3,On Time
+ORD00892,2025-09-22,CUST0371,Bengaluru,Books,Career Guide,2,433.5,5,823.65,Credit Card,4,4,On Time
+ORD00893,2025-09-25,CUST0023,Mumbai,Electronics,Wireless Earbuds,2,1997.67,10,3595.81,UPI,1,5,On Time
+ORD00894,2025-01-24,CUST0296,Pune,Electronics,Bluetooth Speaker,3,2013.67,0,6041.01,Debit Card,2,3,On Time
+ORD00895,2025-04-18,CUST0147,Pune,Home & Kitchen,Cookware Set,1,2397.61,5,2277.73,Credit Card,5,5,On Time
+ORD00896,2025-08-14,CUST0077,Delhi,Books,Fiction Book,2,384.06,10,691.31,UPI,2,4,On Time
+ORD00897,2025-01-08,CUST0278,Chennai,Sports,Yoga Mat,2,814.42,5,1547.4,Credit Card,2,5,On Time
+ORD00898,2025-05-19,CUST0126,Delhi,Clothing,Sneakers,1,2754.66,20,2203.73,UPI,5,5,On Time
+ORD00899,2025-11-10,CUST0067,Bengaluru,Home & Kitchen,Desk Lamp,2,843.15,0,1686.3,Credit Card,8,3,Late
+ORD00900,2025-12-12,CUST0028,Mumbai,Electronics,Wireless Earbuds,1,2152.14,15,1829.32,Credit Card,5,3,On Time
+ORD00901,2025-04-02,CUST0183,Pune,Books,Notebook Pack,2,200.3,20,320.48,UPI,4,4,On Time
+ORD00902,2025-04-12,CUST0291,Delhi,Books,Fiction Book,2,355.9,15,605.03,UPI,2,4,On Time
+ORD00903,2025-12-24,CUST0159,Ahmedabad,Beauty,Face Serum,2,694.43,15,1180.53,Credit Card,5,4,On Time
+ORD00904,2025-04-25,CUST0201,Delhi,Clothing,Sneakers,1,2527.07,10,2274.36,Debit Card,7,5,Late
+ORD00905,2025-12-07,CUST0250,Bengaluru,Home & Kitchen,Bedsheet Set,2,1124.87,15,1912.28,UPI,1,4,On Time
+ORD00906,2025-02-27,CUST0088,Pune,Home & Kitchen,Desk Lamp,2,826.09,15,1404.35,Digital Wallet,2,5,On Time
+ORD00907,2025-11-06,CUST0053,Kolkata,Sports,Running Shoes,1,3007.55,20,2406.04,Digital Wallet,4,3,On Time
+ORD00908,2025-02-24,CUST0273,Ahmedabad,Home & Kitchen,Mixer Grinder,2,2763.2,10,4973.76,Credit Card,2,5,On Time
+ORD00909,2025-07-31,CUST0082,Ahmedabad,Clothing,Jeans,1,1580.12,20,1264.1,Credit Card,3,2,On Time
+ORD00910,2025-06-24,CUST0291,Chennai,Clothing,Jacket,1,1836.41,15,1560.95,Credit Card,2,5,On Time
+ORD00911,2025-05-01,CUST0250,Mumbai,Clothing,T-Shirt,1,586.56,20,469.25,Debit Card,5,3,On Time
+ORD00912,2025-08-26,CUST0091,Pune,Home & Kitchen,Mixer Grinder,3,2768.4,15,7059.42,Cash on Delivery,4,5,On Time
+ORD00913,2025-02-05,CUST0395,Kolkata,Sports,Yoga Mat,1,850.07,20,680.06,UPI,1,5,On Time
+ORD00914,2025-11-27,CUST0112,Delhi,Books,Fiction Book,3,340.19,0,1020.57,Cash on Delivery,4,4,On Time
+ORD00915,2025-11-22,CUST0339,Delhi,Toys,Building Blocks,1,957.26,5,909.4,Credit Card,5,4,On Time
+ORD00916,2025-05-30,CUST0106,Chennai,Beauty,Perfume,2,1368.78,5,2600.68,UPI,4,4,On Time
+ORD00917,2025-12-14,CUST0046,Bengaluru,Home & Kitchen,Desk Lamp,1,765.3,10,688.77,Debit Card,2,4,On Time
+ORD00918,2025-09-19,CUST0032,Chennai,Beauty,Skincare Kit,2,1664.18,10,2995.52,Cash on Delivery,3,4,On Time
+ORD00919,2025-01-28,CUST0145,Bengaluru,Electronics,Bluetooth Speaker,2,1704.71,0,3409.42,UPI,5,5,On Time
+ORD00920,2025-12-26,CUST0365,Kolkata,Sports,Water Bottle,1,400.67,10,360.6,Credit Card,4,5,On Time
+ORD00921,2025-08-11,CUST0244,Delhi,Sports,Running Shoes,1,2717.7,5,2581.81,UPI,5,5,On Time
+ORD00922,2025-07-16,CUST0079,Pune,Toys,Remote Car,1,1275.01,15,1083.76,Cash on Delivery,2,5,On Time
+ORD00923,2025-12-10,CUST0037,Bengaluru,Clothing,Jeans,1,1195.42,0,1195.42,UPI,6,4,Late
+ORD00924,2025-09-07,CUST0044,Delhi,Books,Notebook Pack,3,224.34,5,639.37,Debit Card,2,4,On Time
+ORD00925,2025-08-01,CUST0218,Delhi,Toys,Puzzle Set,1,385.6,20,308.48,Credit Card,1,5,On Time
+ORD00926,2025-08-06,CUST0182,Hyderabad,Sports,Water Bottle,1,395.32,15,336.02,UPI,3,4,On Time
+ORD00927,2025-11-06,CUST0365,Pune,Electronics,Power Bank,1,1375.44,5,1306.67,Credit Card,6,2,Late
+ORD00928,2025-10-07,CUST0020,Ahmedabad,Sports,Dumbbell Set,2,1952.74,0,3905.48,Debit Card,6,4,Late
+ORD00929,2025-02-27,CUST0073,Pune,Sports,Water Bottle,1,423.78,0,423.78,Credit Card,7,3,Late
+ORD00930,2025-02-10,CUST0242,Mumbai,Sports,Yoga Mat,2,802.89,5,1525.49,Debit Card,4,3,On Time
+ORD00931,2025-10-04,CUST0028,Chennai,Toys,Remote Car,1,1535.32,20,1228.26,Credit Card,6,5,Late
+ORD00932,2025-01-06,CUST0241,Chennai,Beauty,Perfume,2,1445.42,20,2312.67,Credit Card,7,4,Late
+ORD00933,2025-05-31,CUST0356,Pune,Home & Kitchen,Cookware Set,1,2355.58,0,2355.58,Debit Card,7,3,Late
+ORD00934,2025-10-16,CUST0297,Delhi,Home & Kitchen,Mixer Grinder,2,2908.4,15,4944.28,Debit Card,4,3,On Time
+ORD00935,2025-12-03,CUST0249,Mumbai,Home & Kitchen,Mixer Grinder,1,3239.72,10,2915.75,UPI,4,3,On Time
+ORD00936,2025-02-09,CUST0068,Pune,Toys,Remote Car,1,1380.18,10,1242.16,UPI,6,4,Late
+ORD00937,2025-05-12,CUST0090,Delhi,Electronics,Wireless Earbuds,1,2198.77,20,1759.02,Debit Card,2,5,On Time
+ORD00938,2025-07-09,CUST0401,Hyderabad,Toys,Board Game,1,827.27,10,744.54,Credit Card,6,4,Late
+ORD00939,2025-09-28,CUST0044,Delhi,Toys,Building Blocks,1,990.18,10,891.16,Debit Card,1,4,On Time
+ORD00940,2025-03-20,CUST0395,Kolkata,Toys,Puzzle Set,2,406.78,15,691.53,UPI,5,4,On Time
+ORD00941,2025-08-14,CUST0296,Chennai,Books,Career Guide,1,472.37,5,448.75,UPI,2,5,On Time
+ORD00942,2025-05-16,CUST0086,Ahmedabad,Toys,Building Blocks,2,920.34,0,1840.68,Credit Card,3,5,On Time
+ORD00943,2025-06-04,CUST0350,Kolkata,Beauty,Skincare Kit,1,1808.67,15,1537.37,Credit Card,3,4,On Time
+ORD00944,2025-03-16,CUST0148,Ahmedabad,Sports,Water Bottle,1,513.36,0,513.36,Credit Card,3,4,On Time
+ORD00945,2025-06-11,CUST0273,Chennai,Sports,Yoga Mat,1,851.51,0,851.51,Cash on Delivery,4,3,On Time
+ORD00946,2025-08-10,CUST0139,Pune,Sports,Dumbbell Set,4,1675.39,10,6031.4,Digital Wallet,2,3,On Time
+ORD00947,2025-05-11,CUST0396,Hyderabad,Books,Notebook Pack,1,245.3,15,208.5,Debit Card,1,3,On Time
+ORD00948,2025-10-29,CUST0173,Delhi,Toys,Board Game,2,786.09,20,1257.74,UPI,3,4,On Time
+ORD00949,2025-01-06,CUST0007,Kolkata,Books,Fiction Book,2,396.25,0,792.5,UPI,4,4,On Time
+ORD00950,2025-02-23,CUST0113,Pune,Books,Notebook Pack,1,218.51,10,196.66,UPI,6,5,Late
+ORD00951,2025-01-18,CUST0305,Hyderabad,Electronics,Wireless Earbuds,1,2093.14,0,2093.14,Cash on Delivery,3,3,On Time
+ORD00952,2025-11-23,CUST0310,Delhi,Electronics,Wireless Earbuds,1,2354.68,0,2354.68,Credit Card,7,4,Late
+ORD00953,2025-11-28,CUST0357,Delhi,Sports,Running Shoes,2,2864.66,0,5729.32,UPI,6,3,Late
+ORD00954,2025-08-28,CUST0142,Kolkata,Books,Fiction Book,1,305.82,15,259.95,Debit Card,5,4,On Time
+ORD00955,2025-12-08,CUST0083,Mumbai,Toys,Remote Car,1,1408.35,10,1267.51,UPI,4,4,On Time
+ORD00956,2025-02-01,CUST0031,Pune,Beauty,Perfume,1,1337.32,10,1203.59,Cash on Delivery,5,5,On Time
+ORD00957,2025-05-16,CUST0252,Hyderabad,Clothing,Jacket,2,1835.52,0,3671.04,Debit Card,8,3,Late
+ORD00958,2025-04-02,CUST0074,Kolkata,Books,Notebook Pack,2,238.71,0,477.42,UPI,4,4,On Time
+ORD00959,2025-11-26,CUST0053,Bengaluru,Electronics,Power Bank,1,1335.05,10,1201.55,UPI,4,2,On Time
+ORD00960,2025-10-20,CUST0010,Ahmedabad,Books,Cookbook,1,474.93,15,403.69,UPI,3,5,On Time
+ORD00961,2025-11-24,CUST0137,Delhi,Electronics,Wireless Earbuds,2,2497.35,15,4245.49,Debit Card,3,4,On Time
+ORD00962,2025-07-20,CUST0363,Ahmedabad,Sports,Yoga Mat,1,886.71,20,709.37,Credit Card,3,4,On Time
+ORD00963,2025-07-26,CUST0116,Bengaluru,Toys,Building Blocks,1,1064.68,20,851.74,Credit Card,2,4,On Time
+ORD00964,2025-12-19,CUST0291,Chennai,Toys,Puzzle Set,1,345.8,0,345.8,UPI,4,4,On Time
+ORD00965,2025-06-05,CUST0188,Chennai,Beauty,Face Serum,1,716.95,0,716.95,UPI,4,5,On Time
+ORD00966,2025-08-24,CUST0091,Bengaluru,Toys,Remote Car,2,1559.16,5,2962.4,Cash on Delivery,4,5,On Time
+ORD00967,2025-12-05,CUST0055,Chennai,Clothing,Sneakers,1,2729.72,15,2320.26,Credit Card,8,4,Late
+ORD00968,2025-11-20,CUST0019,Hyderabad,Beauty,Skincare Kit,1,1660.31,5,1577.29,UPI,2,4,On Time
+ORD00969,2025-10-31,CUST0033,Pune,Clothing,Jacket,1,2165.75,15,1840.89,Credit Card,4,5,On Time
+ORD00970,2025-08-19,CUST0029,Chennai,Electronics,Wireless Earbuds,1,2309.9,10,2078.91,Digital Wallet,4,3,On Time
+ORD00971,2025-01-22,CUST0414,Ahmedabad,Beauty,Face Serum,1,679.0,5,645.05,Cash on Delivery,3,3,On Time
+ORD00972,2025-10-02,CUST0019,Delhi,Clothing,Jeans,1,1357.07,0,1357.07,Credit Card,1,5,On Time
+ORD00973,2025-01-10,CUST0360,Delhi,Beauty,Face Serum,1,826.31,5,784.99,UPI,4,3,On Time
+ORD00974,2025-11-20,CUST0234,Delhi,Electronics,Bluetooth Speaker,1,1568.42,0,1568.42,Digital Wallet,7,5,Late
+ORD00975,2025-02-02,CUST0255,Hyderabad,Toys,Building Blocks,2,966.49,0,1932.98,UPI,4,3,On Time
+ORD00976,2025-04-14,CUST0167,Mumbai,Beauty,Hair Dryer,2,1640.98,15,2789.67,Cash on Delivery,3,4,On Time
+ORD00977,2025-10-22,CUST0407,Hyderabad,Sports,Running Shoes,1,2486.63,10,2237.97,Digital Wallet,4,3,On Time
+ORD00978,2025-10-31,CUST0062,Pune,Clothing,Sneakers,1,2297.86,0,2297.86,UPI,5,2,On Time
+ORD00979,2025-08-01,CUST0085,Ahmedabad,Clothing,Sneakers,1,2043.01,20,1634.41,UPI,6,5,Late
+ORD00980,2025-10-25,CUST0406,Kolkata,Electronics,Smart Watch,1,3788.19,0,3788.19,Digital Wallet,3,4,On Time
+ORD00981,2025-01-09,CUST0004,Delhi,Beauty,Face Serum,1,677.34,0,677.34,Cash on Delivery,6,4,Late
+ORD00982,2025-12-28,CUST0356,Ahmedabad,Books,Cookbook,1,406.54,15,345.56,Debit Card,3,4,On Time
+ORD00983,2025-04-16,CUST0231,Kolkata,Clothing,Sneakers,1,2614.21,20,2091.37,UPI,5,5,On Time
+ORD00984,2025-03-31,CUST0093,Ahmedabad,Sports,Yoga Mat,1,957.72,20,766.18,Debit Card,3,4,On Time
+ORD00985,2025-02-15,CUST0215,Bengaluru,Books,Cookbook,1,455.59,10,410.03,Credit Card,4,4,On Time
+ORD00986,2025-04-09,CUST0186,Hyderabad,Electronics,Wireless Earbuds,1,2133.56,20,1706.85,Credit Card,4,4,On Time
+ORD00987,2025-11-17,CUST0028,Hyderabad,Books,Career Guide,1,544.87,10,490.38,UPI,6,3,Late
+ORD00988,2025-03-18,CUST0091,Delhi,Books,Notebook Pack,1,225.17,15,191.39,Debit Card,4,4,On Time
+ORD00989,2025-01-23,CUST0108,Kolkata,Electronics,Bluetooth Speaker,2,1562.19,10,2811.94,UPI,2,4,On Time
+ORD00990,2025-11-12,CUST0054,Bengaluru,Toys,Puzzle Set,1,405.83,0,405.83,Cash on Delivery,5,2,On Time
+ORD00991,2025-04-01,CUST0264,Mumbai,Clothing,T-Shirt,4,578.87,15,1968.16,UPI,2,5,On Time
+ORD00992,2025-05-01,CUST0297,Chennai,Books,Notebook Pack,1,197.48,20,157.98,Credit Card,3,3,On Time
+ORD00993,2025-12-13,CUST0167,Hyderabad,Home & Kitchen,Cookware Set,2,2587.37,0,5174.74,UPI,1,3,On Time
+ORD00994,2025-07-31,CUST0113,Mumbai,Toys,Board Game,1,818.14,15,695.42,Credit Card,4,3,On Time
+ORD00995,2025-09-06,CUST0111,Ahmedabad,Electronics,Power Bank,1,1225.3,5,1164.03,UPI,5,3,On Time
+ORD00996,2025-07-11,CUST0324,Chennai,Clothing,Jacket,1,2008.54,5,1908.11,Cash on Delivery,4,5,On Time
+ORD00997,2025-04-14,CUST0355,Bengaluru,Home & Kitchen,Cookware Set,1,2752.06,0,2752.06,UPI,6,4,Late
+ORD00998,2025-02-26,CUST0215,Delhi,Toys,Puzzle Set,2,413.21,15,702.46,Digital Wallet,2,4,On Time
+ORD00999,2025-04-23,CUST0088,Hyderabad,Home & Kitchen,Cookware Set,1,2536.9,20,2029.52,UPI,4,5,On Time
+ORD01000,2025-09-25,CUST0243,Ahmedabad,Beauty,Skincare Kit,1,1363.1,20,1090.48,UPI,1,4,On Time
+ORD01001,2025-08-08,CUST0168,Kolkata,Books,Career Guide,2,428.59,5,814.32,Debit Card,5,4,On Time
+ORD01002,2025-10-30,CUST0023,Bengaluru,Clothing,T-Shirt,1,644.47,15,547.8,Cash on Delivery,4,3,On Time
+ORD01003,2025-09-16,CUST0202,Ahmedabad,Electronics,Power Bank,1,1166.65,20,933.32,Digital Wallet,5,4,On Time
+ORD01004,2025-12-23,CUST0254,Hyderabad,Toys,Building Blocks,1,813.93,15,691.84,UPI,4,5,On Time
+ORD01005,2025-01-07,CUST0068,Chennai,Books,Notebook Pack,3,226.4,5,645.24,UPI,3,5,On Time
+ORD01006,2025-11-28,CUST0343,Pune,Electronics,Wireless Earbuds,2,2472.61,15,4203.44,UPI,2,4,On Time
+ORD01007,2025-08-24,CUST0238,Delhi,Toys,Building Blocks,1,864.11,15,734.49,Digital Wallet,2,3,On Time
+ORD01008,2025-07-27,CUST0361,Bengaluru,Clothing,Sneakers,1,2463.35,15,2093.85,Digital Wallet,7,3,Late
+ORD01009,2025-02-06,CUST0017,Pune,Beauty,Hair Dryer,1,1665.04,20,1332.03,Credit Card,4,3,On Time
+ORD01010,2025-05-19,CUST0318,Chennai,Books,Career Guide,1,467.49,0,467.49,Debit Card,6,4,Late
+ORD01011,2025-01-29,CUST0057,Kolkata,Sports,Dumbbell Set,1,1776.18,0,1776.18,Credit Card,6,4,Late
+ORD01012,2025-11-13,CUST0090,Mumbai,Electronics,Bluetooth Speaker,3,1540.87,10,4160.35,Debit Card,8,2,Late
+ORD01013,2025-04-15,CUST0277,Mumbai,Clothing,Sneakers,2,2528.93,5,4804.97,Debit Card,2,5,On Time
+ORD01014,2025-10-25,CUST0165,Chennai,Toys,Board Game,2,691.81,5,1314.44,Cash on Delivery,4,4,On Time
+ORD01015,2025-09-15,CUST0028,Mumbai,Books,Notebook Pack,1,201.56,10,181.4,Credit Card,7,4,Late
+ORD01016,2025-08-20,CUST0364,Pune,Beauty,Face Serum,1,808.06,15,686.85,Credit Card,2,5,On Time
+ORD01017,2025-07-08,CUST0235,Mumbai,Toys,Building Blocks,1,867.26,5,823.9,UPI,4,4,On Time
+ORD01018,2025-04-02,CUST0085,Pune,Home & Kitchen,Mixer Grinder,3,3011.25,0,9033.75,UPI,5,5,On Time
+ORD01019,2025-03-17,CUST0267,Bengaluru,Beauty,Skincare Kit,2,1823.51,5,3464.67,UPI,2,4,On Time
+ORD01020,2025-12-16,CUST0178,Kolkata,Sports,Running Shoes,2,2992.62,15,5087.45,Credit Card,1,4,On Time
+ORD01021,2025-11-27,CUST0033,Bengaluru,Electronics,Bluetooth Speaker,1,1698.58,5,1613.65,Digital Wallet,7,3,Late
+ORD01022,2025-04-29,CUST0297,Chennai,Toys,Remote Car,2,1379.5,15,2345.15,Debit Card,1,4,On Time
+ORD01023,2025-06-17,CUST0156,Delhi,Beauty,Perfume,1,1410.52,15,1198.94,Cash on Delivery,3,5,On Time
+ORD01024,2025-06-06,CUST0248,Chennai,Clothing,Sneakers,2,2685.84,5,5103.1,Cash on Delivery,3,4,On Time
+ORD01025,2025-01-25,CUST0234,Delhi,Clothing,Sneakers,3,2311.21,10,6240.27,Debit Card,3,4,On Time
+ORD01026,2025-03-24,CUST0090,Delhi,Books,Cookbook,1,370.74,5,352.2,UPI,2,3,On Time
+ORD01027,2025-03-01,CUST0065,Ahmedabad,Electronics,Bluetooth Speaker,2,2002.76,20,3204.42,UPI,5,4,On Time
+ORD01028,2025-04-05,CUST0177,Delhi,Clothing,T-Shirt,2,701.61,10,1262.9,Credit Card,4,3,On Time
+ORD01029,2025-10-04,CUST0013,Kolkata,Clothing,Sneakers,3,2531.43,0,7594.29,Cash on Delivery,4,2,On Time
+ORD01030,2025-03-16,CUST0003,Chennai,Beauty,Hair Dryer,2,1906.03,5,3621.46,Debit Card,3,4,On Time
+ORD01031,2025-06-01,CUST0342,Delhi,Beauty,Hair Dryer,2,2106.01,20,3369.62,Digital Wallet,6,3,Late
+ORD01032,2025-08-15,CUST0021,Delhi,Home & Kitchen,Mixer Grinder,2,3499.47,15,5949.1,Debit Card,3,4,On Time
+ORD01033,2025-03-01,CUST0317,Hyderabad,Home & Kitchen,Mixer Grinder,2,2846.42,15,4838.91,Credit Card,5,5,On Time
+ORD01034,2025-02-17,CUST0329,Hyderabad,Home & Kitchen,Mixer Grinder,2,2962.22,20,4739.55,Debit Card,4,4,On Time
+ORD01035,2025-04-24,CUST0012,Mumbai,Toys,Remote Car,1,1597.86,5,1517.97,Credit Card,6,4,Late
+ORD01036,2025-08-17,CUST0202,Hyderabad,Books,Fiction Book,1,315.17,20,252.14,Credit Card,4,5,On Time
+ORD01037,2025-11-05,CUST0204,Delhi,Sports,Yoga Mat,1,906.2,10,815.58,Debit Card,8,3,Late
+ORD01038,2025-08-07,CUST0007,Pune,Home & Kitchen,Desk Lamp,1,988.75,10,889.88,Credit Card,5,5,On Time
+ORD01039,2025-06-07,CUST0373,Ahmedabad,Beauty,Face Serum,1,826.24,5,784.93,Digital Wallet,6,5,Late
+ORD01040,2025-08-01,CUST0084,Kolkata,Toys,Puzzle Set,1,445.51,10,400.96,Debit Card,3,4,On Time
+ORD01041,2025-08-01,CUST0107,Pune,Clothing,T-Shirt,1,725.34,5,689.07,Credit Card,6,5,Late
+ORD01042,2025-09-26,CUST0388,Kolkata,Home & Kitchen,Mixer Grinder,1,2958.84,20,2367.07,UPI,3,4,On Time
+ORD01043,2025-07-29,CUST0090,Ahmedabad,Books,Cookbook,2,406.53,15,691.1,Debit Card,4,4,On Time
+ORD01044,2025-03-12,CUST0149,Ahmedabad,Clothing,Jeans,1,1340.02,15,1139.02,UPI,4,2,On Time
+ORD01045,2025-06-04,CUST0287,Ahmedabad,Toys,Remote Car,1,1670.96,15,1420.32,UPI,9,5,Late
+ORD01046,2025-01-02,CUST0328,Ahmedabad,Clothing,Sneakers,1,2747.57,10,2472.81,UPI,3,4,On Time
+ORD01047,2025-12-07,CUST0252,Hyderabad,Home & Kitchen,Desk Lamp,2,925.75,5,1758.92,UPI,1,3,On Time
+ORD01048,2025-05-22,CUST0382,Chennai,Beauty,Face Serum,2,681.54,20,1090.46,Debit Card,5,5,On Time
+ORD01049,2025-10-17,CUST0356,Mumbai,Beauty,Hair Dryer,1,1876.08,15,1594.67,Credit Card,5,3,On Time
+ORD01050,2025-10-22,CUST0298,Bengaluru,Electronics,Bluetooth Speaker,1,1703.26,5,1618.1,UPI,5,4,On Time
+ORD01051,2025-08-25,CUST0084,Bengaluru,Books,Career Guide,1,433.21,10,389.89,UPI,3,3,On Time
+ORD01052,2025-08-03,CUST0149,Pune,Books,Cookbook,1,357.03,0,357.03,Credit Card,2,5,On Time
+ORD01053,2025-02-09,CUST0392,Mumbai,Sports,Running Shoes,1,2436.79,5,2314.95,Debit Card,4,4,On Time
+ORD01054,2025-03-27,CUST0351,Pune,Sports,Dumbbell Set,1,1505.76,10,1355.18,UPI,1,4,On Time
+ORD01055,2025-12-24,CUST0274,Chennai,Books,Cookbook,1,435.29,0,435.29,Digital Wallet,3,4,On Time
+ORD01056,2025-01-07,CUST0399,Ahmedabad,Clothing,Sneakers,1,2755.92,10,2480.33,Credit Card,6,3,Late
+ORD01057,2025-03-25,CUST0258,Hyderabad,Electronics,Smart Watch,1,3736.37,5,3549.55,Digital Wallet,4,5,On Time
+ORD01058,2025-10-14,CUST0236,Mumbai,Sports,Yoga Mat,2,943.34,15,1603.68,UPI,4,4,On Time
+ORD01059,2025-03-09,CUST0160,Chennai,Electronics,Power Bank,1,1375.28,10,1237.75,UPI,2,5,On Time
+ORD01060,2025-08-15,CUST0364,Pune,Sports,Dumbbell Set,1,1950.99,5,1853.44,UPI,2,5,On Time
+ORD01061,2025-03-02,CUST0353,Hyderabad,Clothing,Jeans,1,1359.46,5,1291.49,UPI,5,4,On Time
+ORD01062,2025-04-18,CUST0354,Mumbai,Clothing,T-Shirt,1,713.87,15,606.79,UPI,2,3,On Time
+ORD01063,2025-09-05,CUST0101,Mumbai,Toys,Puzzle Set,1,362.45,0,362.45,UPI,1,4,On Time
+ORD01064,2025-12-04,CUST0061,Pune,Sports,Yoga Mat,1,818.6,15,695.81,UPI,1,4,On Time
+ORD01065,2025-06-04,CUST0401,Mumbai,Books,Fiction Book,1,397.61,0,397.61,Cash on Delivery,3,4,On Time
+ORD01066,2025-04-16,CUST0344,Chennai,Sports,Running Shoes,1,2649.14,5,2516.68,UPI,4,4,On Time
+ORD01067,2025-03-16,CUST0179,Chennai,Toys,Remote Car,1,1560.71,20,1248.57,UPI,4,5,On Time
+ORD01068,2025-09-14,CUST0292,Mumbai,Toys,Board Game,1,909.31,20,727.45,UPI,5,4,On Time
+ORD01069,2025-10-24,CUST0112,Hyderabad,Toys,Building Blocks,1,1050.87,20,840.7,Cash on Delivery,4,4,On Time
+ORD01070,2025-03-29,CUST0110,Ahmedabad,Toys,Building Blocks,2,1073.92,0,2147.84,Credit Card,3,4,On Time
+ORD01071,2025-10-29,CUST0093,Chennai,Clothing,Jacket,1,1967.05,0,1967.05,Cash on Delivery,1,3,On Time
+ORD01072,2025-08-06,CUST0058,Chennai,Clothing,Jeans,1,1257.15,15,1068.58,UPI,2,5,On Time
+ORD01073,2025-02-26,CUST0391,Chennai,Sports,Running Shoes,1,2802.81,15,2382.39,Debit Card,5,5,On Time
+ORD01074,2025-10-13,CUST0168,Ahmedabad,Books,Fiction Book,2,313.86,0,627.72,UPI,2,4,On Time
+ORD01075,2025-05-26,CUST0116,Kolkata,Beauty,Hair Dryer,1,1850.7,15,1573.1,UPI,3,4,On Time
+ORD01076,2025-08-08,CUST0348,Chennai,Clothing,T-Shirt,1,628.98,15,534.63,UPI,3,4,On Time
+ORD01077,2025-12-12,CUST0225,Mumbai,Beauty,Face Serum,4,723.36,15,2459.42,UPI,3,5,On Time
+ORD01078,2025-07-22,CUST0034,Chennai,Beauty,Face Serum,1,680.7,5,646.66,Cash on Delivery,6,4,Late
+ORD01079,2025-06-23,CUST0120,Kolkata,Clothing,Jacket,1,1995.92,0,1995.92,Debit Card,5,3,On Time
+ORD01080,2025-05-23,CUST0183,Ahmedabad,Toys,Remote Car,1,1341.83,15,1140.56,Debit Card,6,4,Late
+ORD01081,2025-07-27,CUST0394,Ahmedabad,Beauty,Hair Dryer,1,1690.39,5,1605.87,UPI,3,4,On Time
+ORD01082,2025-05-09,CUST0322,Delhi,Beauty,Perfume,1,1355.69,5,1287.91,UPI,6,4,Late
+ORD01083,2025-01-28,CUST0348,Bengaluru,Toys,Building Blocks,1,1042.34,15,885.99,Cash on Delivery,3,3,On Time
+ORD01084,2025-07-15,CUST0156,Mumbai,Sports,Dumbbell Set,2,1536.88,5,2920.07,Digital Wallet,6,3,Late
+ORD01085,2025-12-05,CUST0104,Pune,Toys,Puzzle Set,1,422.81,15,359.39,Debit Card,3,4,On Time
+ORD01086,2025-09-09,CUST0176,Bengaluru,Sports,Dumbbell Set,1,1567.81,20,1254.25,Cash on Delivery,2,4,On Time
+ORD01087,2025-01-17,CUST0231,Chennai,Beauty,Face Serum,1,704.54,15,598.86,Digital Wallet,4,4,On Time
+ORD01088,2025-08-15,CUST0091,Pune,Beauty,Face Serum,1,706.73,0,706.73,Cash on Delivery,4,5,On Time
+ORD01089,2025-03-26,CUST0160,Kolkata,Beauty,Perfume,3,1321.06,5,3765.02,Credit Card,1,4,On Time
+ORD01090,2025-02-26,CUST0351,Ahmedabad,Sports,Water Bottle,1,506.23,20,404.98,Credit Card,2,3,On Time
+ORD01091,2025-03-22,CUST0135,Ahmedabad,Sports,Yoga Mat,2,808.9,15,1375.13,Debit Card,5,4,On Time
+ORD01092,2025-07-13,CUST0165,Bengaluru,Sports,Dumbbell Set,1,1576.1,10,1418.49,UPI,1,4,On Time
+ORD01093,2025-01-24,CUST0415,Bengaluru,Clothing,Sneakers,2,2701.83,10,4863.29,Digital Wallet,1,3,On Time
+ORD01094,2025-11-17,CUST0220,Chennai,Home & Kitchen,Desk Lamp,3,885.11,0,2655.33,Cash on Delivery,1,4,On Time
+ORD01095,2025-07-30,CUST0127,Hyderabad,Home & Kitchen,Mixer Grinder,3,3266.2,5,9308.67,Debit Card,5,5,On Time
+ORD01096,2025-10-31,CUST0059,Chennai,Electronics,Wireless Earbuds,1,2156.24,10,1940.62,UPI,3,5,On Time
+ORD01097,2025-10-03,CUST0337,Kolkata,Home & Kitchen,Mixer Grinder,2,3623.35,15,6159.69,Debit Card,6,4,Late
+ORD01098,2025-08-04,CUST0302,Bengaluru,Home & Kitchen,Mixer Grinder,2,3531.24,15,6003.11,Cash on Delivery,3,4,On Time
+ORD01099,2025-07-13,CUST0294,Mumbai,Sports,Water Bottle,1,473.46,10,426.11,Digital Wallet,6,4,Late
+ORD01100,2025-02-21,CUST0255,Chennai,Books,Career Guide,1,520.21,10,468.19,UPI,5,4,On Time
+ORD01101,2025-06-03,CUST0255,Mumbai,Home & Kitchen,Desk Lamp,1,820.1,5,779.1,Digital Wallet,5,3,On Time
+ORD01102,2025-10-02,CUST0025,Pune,Clothing,Sneakers,1,2195.54,10,1975.99,Cash on Delivery,4,5,On Time
+ORD01103,2025-07-25,CUST0381,Mumbai,Toys,Board Game,1,895.51,20,716.41,Debit Card,7,4,Late
+ORD01104,2025-10-24,CUST0035,Ahmedabad,Electronics,Bluetooth Speaker,1,1771.23,10,1594.11,Credit Card,3,4,On Time
+ORD01105,2025-06-27,CUST0259,Pune,Toys,Building Blocks,1,818.69,10,736.82,Credit Card,5,4,On Time
+ORD01106,2025-10-04,CUST0206,Pune,Home & Kitchen,Cookware Set,1,2329.45,15,1980.03,Debit Card,5,5,On Time
+ORD01107,2025-08-21,CUST0322,Delhi,Books,Career Guide,2,540.46,0,1080.92,Debit Card,4,4,On Time
+ORD01108,2025-04-20,CUST0327,Kolkata,Books,Notebook Pack,1,229.8,10,206.82,Cash on Delivery,3,3,On Time
+ORD01109,2025-11-17,CUST0237,Delhi,Electronics,Smart Watch,2,3910.94,10,7039.69,UPI,3,2,On Time
+ORD01110,2025-12-17,CUST0211,Chennai,Toys,Remote Car,2,1428.0,15,2427.6,Digital Wallet,5,4,On Time
+ORD01111,2025-02-02,CUST0137,Pune,Books,Career Guide,1,489.55,15,416.12,Debit Card,5,3,On Time
+ORD01112,2025-05-12,CUST0123,Mumbai,Books,Career Guide,1,520.3,15,442.25,UPI,3,4,On Time
+ORD01113,2025-01-15,CUST0249,Kolkata,Clothing,Sneakers,1,2271.89,15,1931.11,Credit Card,6,4,Late
+ORD01114,2025-01-19,CUST0070,Bengaluru,Clothing,Jeans,2,1372.87,10,2471.17,UPI,4,5,On Time
+ORD01115,2025-05-23,CUST0370,Ahmedabad,Books,Career Guide,1,432.92,0,432.92,Digital Wallet,3,4,On Time
+ORD01116,2025-01-29,CUST0309,Pune,Toys,Building Blocks,1,959.25,10,863.33,Digital Wallet,7,5,Late
+ORD01117,2025-07-28,CUST0371,Delhi,Home & Kitchen,Mixer Grinder,1,3084.55,15,2621.87,UPI,4,4,On Time
+ORD01118,2025-10-20,CUST0341,Pune,Books,Fiction Book,2,394.37,20,630.99,Credit Card,5,5,On Time
+ORD01119,2025-02-16,CUST0169,Kolkata,Clothing,T-Shirt,1,682.5,10,614.25,Digital Wallet,6,5,Late
+ORD01120,2025-05-01,CUST0055,Delhi,Beauty,Skincare Kit,1,1613.76,5,1533.07,UPI,4,2,On Time
+ORD01121,2025-05-21,CUST0302,Bengaluru,Beauty,Perfume,1,1419.02,10,1277.12,Credit Card,7,3,Late
+ORD01122,2025-07-11,CUST0280,Kolkata,Books,Fiction Book,1,326.56,10,293.9,Credit Card,1,5,On Time
+ORD01123,2025-05-07,CUST0244,Chennai,Home & Kitchen,Cookware Set,3,2929.66,10,7910.08,Digital Wallet,1,4,On Time
+ORD01124,2025-01-11,CUST0354,Hyderabad,Books,Fiction Book,2,301.35,0,602.7,UPI,1,4,On Time
+ORD01125,2025-07-16,CUST0274,Hyderabad,Home & Kitchen,Bedsheet Set,3,938.96,0,2816.88,Digital Wallet,6,4,Late
+ORD01126,2025-07-18,CUST0155,Mumbai,Electronics,Power Bank,1,1050.75,10,945.68,Cash on Delivery,4,4,On Time
+ORD01127,2025-05-01,CUST0225,Chennai,Home & Kitchen,Cookware Set,1,2394.56,5,2274.83,Digital Wallet,1,4,On Time
+ORD01128,2025-11-26,CUST0042,Ahmedabad,Beauty,Face Serum,1,661.39,10,595.25,Credit Card,3,5,On Time
+ORD01129,2025-07-31,CUST0420,Mumbai,Toys,Remote Car,1,1502.21,15,1276.88,Digital Wallet,2,4,On Time
+ORD01130,2025-12-24,CUST0216,Chennai,Home & Kitchen,Mixer Grinder,1,2770.63,10,2493.57,Credit Card,4,4,On Time
+ORD01131,2025-01-15,CUST0323,Ahmedabad,Toys,Building Blocks,2,882.29,5,1676.35,Digital Wallet,3,4,On Time
+ORD01132,2025-03-11,CUST0322,Pune,Electronics,Power Bank,1,1227.94,5,1166.54,UPI,1,5,On Time
+ORD01133,2025-02-12,CUST0265,Delhi,Electronics,Smart Watch,1,3351.55,5,3183.97,Digital Wallet,2,4,On Time
+ORD01134,2025-12-18,CUST0245,Delhi,Beauty,Hair Dryer,2,2165.78,15,3681.83,UPI,6,4,Late
+ORD01135,2025-12-18,CUST0102,Mumbai,Sports,Dumbbell Set,1,1766.69,10,1590.02,Credit Card,2,2,On Time
+ORD01136,2025-04-04,CUST0115,Bengaluru,Beauty,Perfume,2,1214.95,20,1943.92,Cash on Delivery,5,4,On Time
+ORD01137,2025-10-13,CUST0237,Hyderabad,Books,Career Guide,1,497.85,0,497.85,UPI,4,5,On Time
+ORD01138,2025-03-28,CUST0220,Pune,Electronics,Power Bank,1,1109.91,20,887.93,UPI,5,4,On Time
+ORD01139,2025-07-08,CUST0368,Kolkata,Clothing,T-Shirt,1,652.87,0,652.87,Digital Wallet,4,4,On Time
+ORD01140,2025-08-21,CUST0115,Hyderabad,Toys,Puzzle Set,1,349.57,0,349.57,UPI,4,4,On Time
+ORD01141,2025-05-17,CUST0067,Kolkata,Home & Kitchen,Desk Lamp,1,799.05,15,679.19,Digital Wallet,6,4,Late
+ORD01142,2025-11-04,CUST0215,Delhi,Clothing,Sneakers,1,2673.48,5,2539.81,Credit Card,5,4,On Time
+ORD01143,2025-03-16,CUST0121,Ahmedabad,Electronics,Bluetooth Speaker,1,1600.9,10,1440.81,Cash on Delivery,2,4,On Time
+ORD01144,2025-07-09,CUST0006,Ahmedabad,Sports,Water Bottle,3,485.15,0,1455.45,UPI,2,5,On Time
+ORD01145,2025-06-15,CUST0366,Kolkata,Books,Notebook Pack,1,236.93,5,225.08,Debit Card,1,4,On Time
+ORD01146,2025-11-02,CUST0286,Bengaluru,Home & Kitchen,Mixer Grinder,1,2758.72,0,2758.72,UPI,3,2,On Time
+ORD01147,2025-05-01,CUST0344,Bengaluru,Beauty,Hair Dryer,1,2176.25,20,1741.0,UPI,3,4,On Time
+ORD01148,2025-09-16,CUST0203,Chennai,Sports,Water Bottle,1,486.32,10,437.69,UPI,7,2,Late
+ORD01149,2025-10-14,CUST0087,Ahmedabad,Electronics,Smart Watch,1,3269.25,10,2942.33,Cash on Delivery,6,4,Late
+ORD01150,2025-08-28,CUST0364,Kolkata,Clothing,T-Shirt,3,569.41,10,1537.41,UPI,5,4,On Time
+ORD01151,2025-03-01,CUST0256,Pune,Home & Kitchen,Mixer Grinder,1,3516.38,5,3340.56,Digital Wallet,2,5,On Time
+ORD01152,2025-08-09,CUST0390,Pune,Home & Kitchen,Bedsheet Set,3,1025.94,20,2462.26,Credit Card,6,3,Late
+ORD01153,2025-08-12,CUST0392,Delhi,Clothing,Sneakers,2,2709.17,15,4605.59,Credit Card,5,4,On Time
+ORD01154,2025-12-03,CUST0097,Delhi,Books,Notebook Pack,2,191.21,0,382.42,UPI,1,3,On Time
+ORD01155,2025-04-04,CUST0084,Ahmedabad,Electronics,Power Bank,1,1373.86,10,1236.47,Credit Card,6,5,Late
+ORD01156,2025-09-11,CUST0364,Ahmedabad,Electronics,Power Bank,4,1155.79,10,4160.84,Credit Card,3,5,On Time
+ORD01157,2025-02-27,CUST0179,Mumbai,Toys,Board Game,2,723.36,0,1446.72,UPI,6,3,Late
+ORD01158,2025-05-26,CUST0140,Hyderabad,Clothing,Jeans,1,1445.45,20,1156.36,Debit Card,6,4,Late
+ORD01159,2025-01-03,CUST0040,Hyderabad,Sports,Running Shoes,1,2429.1,15,2064.73,Digital Wallet,3,3,On Time
+ORD01160,2025-12-13,CUST0146,Mumbai,Electronics,Bluetooth Speaker,1,1721.59,0,1721.59,Credit Card,3,4,On Time
+ORD01161,2025-10-30,CUST0015,Mumbai,Electronics,Bluetooth Speaker,1,2007.55,5,1907.17,Credit Card,4,3,On Time
+ORD01162,2025-12-29,CUST0322,Pune,Books,Notebook Pack,2,214.68,15,364.96,Debit Card,2,5,On Time
+ORD01163,2025-01-03,CUST0232,Chennai,Home & Kitchen,Mixer Grinder,1,2727.06,20,2181.65,Cash on Delivery,6,5,Late
+ORD01164,2025-10-19,CUST0411,Pune,Clothing,Jeans,1,1344.67,0,1344.67,UPI,4,4,On Time
+ORD01165,2025-01-29,CUST0309,Kolkata,Books,Fiction Book,1,393.04,20,314.43,UPI,5,5,On Time
+ORD01166,2025-05-11,CUST0046,Bengaluru,Clothing,Jeans,2,1553.03,15,2640.15,Digital Wallet,1,2,On Time
+ORD01167,2025-03-25,CUST0332,Delhi,Beauty,Perfume,1,1482.02,10,1333.82,UPI,3,4,On Time
+ORD01168,2025-09-09,CUST0351,Delhi,Toys,Puzzle Set,2,397.67,10,715.81,Credit Card,4,4,On Time
+ORD01169,2025-02-19,CUST0103,Ahmedabad,Toys,Remote Car,1,1669.99,20,1335.99,Credit Card,5,4,On Time
+ORD01170,2025-07-18,CUST0308,Kolkata,Beauty,Hair Dryer,1,1646.13,20,1316.9,UPI,4,4,On Time
+ORD01171,2025-08-05,CUST0096,Kolkata,Toys,Remote Car,1,1486.23,20,1188.98,Debit Card,3,5,On Time
+ORD01172,2025-02-17,CUST0347,Hyderabad,Electronics,Bluetooth Speaker,1,1599.7,15,1359.74,Debit Card,5,4,On Time
+ORD01173,2025-03-21,CUST0240,Kolkata,Beauty,Face Serum,1,688.68,10,619.81,UPI,3,3,On Time
+ORD01174,2025-09-02,CUST0351,Pune,Home & Kitchen,Cookware Set,3,2477.56,5,7061.05,Digital Wallet,4,4,On Time
+ORD01175,2025-09-25,CUST0025,Mumbai,Beauty,Hair Dryer,1,2122.95,20,1698.36,Cash on Delivery,7,3,Late
+ORD01176,2025-09-20,CUST0049,Ahmedabad,Electronics,Power Bank,4,1038.06,15,3529.4,Debit Card,4,4,On Time
+ORD01177,2025-10-19,CUST0131,Mumbai,Toys,Remote Car,1,1357.94,10,1222.15,Digital Wallet,3,4,On Time
+ORD01178,2025-01-09,CUST0403,Delhi,Electronics,Power Bank,1,1238.12,5,1176.21,Digital Wallet,3,4,On Time
+ORD01179,2025-01-24,CUST0161,Ahmedabad,Electronics,Power Bank,2,1023.78,10,1842.8,Digital Wallet,4,4,On Time
+ORD01180,2025-08-19,CUST0415,Delhi,Sports,Dumbbell Set,1,1718.13,10,1546.32,UPI,1,4,On Time
+ORD01181,2025-02-10,CUST0223,Bengaluru,Books,Cookbook,3,469.64,0,1408.92,UPI,6,3,Late
+ORD01182,2025-03-01,CUST0236,Kolkata,Electronics,Smart Watch,3,4326.75,15,11033.21,Digital Wallet,1,5,On Time
+ORD01183,2025-11-05,CUST0317,Chennai,Books,Notebook Pack,1,250.29,10,225.26,Debit Card,4,3,On Time
+ORD01184,2025-12-20,CUST0045,Delhi,Books,Notebook Pack,1,205.41,10,184.87,UPI,4,4,On Time
+ORD01185,2025-04-08,CUST0014,Hyderabad,Electronics,Wireless Earbuds,1,1971.98,5,1873.38,Credit Card,5,2,On Time
+ORD01186,2025-03-16,CUST0321,Hyderabad,Books,Career Guide,1,472.47,15,401.6,UPI,3,4,On Time
+ORD01187,2025-08-26,CUST0012,Mumbai,Clothing,Jacket,3,2380.17,15,6069.43,UPI,5,3,On Time
+ORD01188,2025-03-20,CUST0242,Bengaluru,Books,Notebook Pack,3,187.41,15,477.9,Digital Wallet,4,5,On Time
+ORD01189,2025-10-27,CUST0292,Kolkata,Clothing,Jeans,1,1298.21,10,1168.39,UPI,7,3,Late
+ORD01190,2025-01-05,CUST0254,Pune,Electronics,Power Bank,2,1378.35,15,2343.19,UPI,4,3,On Time
+ORD01191,2025-07-24,CUST0366,Bengaluru,Beauty,Perfume,1,1263.2,5,1200.04,Credit Card,4,5,On Time
+ORD01192,2025-08-05,CUST0033,Pune,Sports,Dumbbell Set,1,1560.9,20,1248.72,Cash on Delivery,7,4,Late
+ORD01193,2025-08-02,CUST0319,Chennai,Beauty,Face Serum,1,860.31,15,731.26,Credit Card,1,5,On Time
+ORD01194,2025-08-12,CUST0372,Hyderabad,Electronics,Smart Watch,2,3424.33,10,6163.79,Credit Card,1,3,On Time
+ORD01195,2025-08-13,CUST0351,Chennai,Clothing,Jeans,1,1518.35,20,1214.68,Cash on Delivery,6,4,Late
+ORD01196,2025-12-03,CUST0371,Kolkata,Beauty,Skincare Kit,1,1524.19,10,1371.77,Cash on Delivery,3,5,On Time
+ORD01197,2025-12-11,CUST0410,Delhi,Books,Cookbook,1,420.57,15,357.48,Debit Card,4,5,On Time
+ORD01198,2025-05-25,CUST0067,Delhi,Books,Fiction Book,1,399.03,15,339.18,UPI,6,4,Late
+ORD01199,2025-11-07,CUST0253,Pune,Beauty,Face Serum,1,765.57,15,650.73,UPI,4,5,On Time
+ORD01200,2025-10-13,CUST0134,Chennai,Electronics,Wireless Earbuds,2,2115.55,10,3807.99,Debit Card,4,3,On Time
